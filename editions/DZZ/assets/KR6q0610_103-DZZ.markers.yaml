@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0610/DZZ/v1/markers/103
+seq: 103
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '8', id: KR6q0610_DZZ_103-bkkpn1}
+  - {type: punctuation, offset: 0, content: '0', id: KR6q0610_DZZ_103-bkkpn2}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_103-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0080-s002}
+  - {type: punctuation, offset: 5, content: 、, id: KR6q0610_DZZ_103-bkkpn3}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR6q0610_DZZ_0080-s003}
+  - {type: punctuation, offset: 11, content: 、, id: KR6q0610_DZZ_103-bkkpn4}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR6q0610_DZZ_0080-s004}
+  - {type: punctuation, offset: 17, content: 。, id: KR6q0610_DZZ_103-bkkpn5}
+  - {type: xml-element, offset: 17, content: '', id: KR6q0610_DZZ_103-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:0095edb6fa9c69a789782747a74fadb6dbd3db7d2b9eb84c8f8c55b4f211b48b

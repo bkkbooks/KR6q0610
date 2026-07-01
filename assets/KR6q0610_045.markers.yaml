@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6q0610/bkk/v1/markers/45
+seq: 45
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '3', id: KR6q0610_DZZ_045-bkkpn1}
+  - {type: punctuation, offset: 0, content: '3', id: KR6q0610_DZZ_045-bkkpn2}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_045-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0033-s002}
+  - {type: punctuation, offset: 2, content: 、, id: KR6q0610_DZZ_045-bkkpn3}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR6q0610_DZZ_0033-s003}
+  - {type: punctuation, offset: 5, content: 、, id: KR6q0610_DZZ_045-bkkpn4}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR6q0610_DZZ_0033-s004}
+  - {type: punctuation, offset: 9, content: 、, id: KR6q0610_DZZ_045-bkkpn5}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR6q0610_DZZ_0033-s005}
+  - {type: punctuation, offset: 20, content: 。, id: KR6q0610_DZZ_045-bkkpn6}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR6q0610_DZZ_0033-s006}
+  - {type: punctuation, offset: 24, content: 。, id: KR6q0610_DZZ_045-bkkpn7}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR6q0610_DZZ_0033-s007}
+  - {type: punctuation, offset: 26, content: 、, id: KR6q0610_DZZ_045-bkkpn8}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR6q0610_DZZ_0033-s008}
+  - {type: punctuation, offset: 29, content: 。, id: KR6q0610_DZZ_045-bkkpn9}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR6q0610_DZZ_0033-s009}
+  - {type: punctuation, offset: 33, content: 。, id: KR6q0610_DZZ_045-bkkpn10}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR6q0610_DZZ_0033-s010}
+  - {type: punctuation, offset: 35, content: 、, id: KR6q0610_DZZ_045-bkkpn11}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR6q0610_DZZ_0033-s011}
+  - {type: punctuation, offset: 37, content: 。, id: KR6q0610_DZZ_045-bkkpn12}
+  - {type: xml-element, offset: 37, content: '', id: KR6q0610_DZZ_045-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:dbac1b8d1d72d1f6666427ea1796612192aedf9e8c64af787cbd9e9b10867075

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 琅瑘廣照大師嗣汾陽諱慧覺因僧問清淨本然云何忽生山河大地師曰清淨本然云何忽生山河大地
+  hash: sha256:b33bec94cf085a3219cc4be17233f09f3cdc37fca47fcb301a7728113fd61510
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0006-h001}
+  - {type: 'tls:div-end', offset: 41, content: '', id: KR6q0610_DZZ_0006}
+  - {type: 'tls:div-start', offset: 41, content: '', id: KR6q0610_DZZ_0007, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:6ecf2136fbe3d229a46c7748302875753d5999d3dc023d78c49b963fb17fb6cd

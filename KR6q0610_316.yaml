@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/316
+seq: 316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 趙州和尚示衆云兄弟若從南方來者即與下載若從北方來者即與裝載所以近上人問道即失道近下人問道即得道兄弟正人說邪法邪法亦隨正邪人說正法正法亦隨邪諸方難見易成我這裡易見難成又示衆云此事如明珠在掌胡來胡現漢來漢現老僧把一枝草作丈六金身用把丈六金身作一枝草用
+  hash: sha256:42e6d46105e2c9b877d68038627d17d6da45e3743db005765e3319e6a12b2800
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0239-h001}
+  - {type: 'tls:div-end', offset: 123, content: '', id: KR6q0610_DZZ_0239}
+  - {type: 'tls:div-start', offset: 123, content: '', id: KR6q0610_DZZ_0240, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:5b9d93acb3d7b08d76a87513db2a93b5dc1859bc058b950cb0f8a801c2a23e71

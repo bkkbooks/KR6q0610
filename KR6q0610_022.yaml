@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 湖南長沙招賢大師嗣南泉諱景岑因僧問作麼生轉得山河大地歸自己去師曰作麼生轉得自己歸山河大地去
+  hash: sha256:00bea8d1414af6f36c545d2eac1e5e1eed64205c7f376088f7d59814745dfc84
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0016-h001}
+  - {type: 'tls:div-end', offset: 45, content: '', id: KR6q0610_DZZ_0016}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:c7af797950cfebe933d85e6abcbee2cb50e78e26976cc4ffb9fb0563f499d274

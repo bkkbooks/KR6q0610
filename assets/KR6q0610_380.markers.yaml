@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR6q0610/bkk/v1/markers/380
+seq: 380
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '2', id: KR6q0610_DZZ_380-bkkpn1}
+  - {type: punctuation, offset: 0, content: '9', id: KR6q0610_DZZ_380-bkkpn2}
+  - {type: punctuation, offset: 0, content: '3', id: KR6q0610_DZZ_380-bkkpn3}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_380-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0293-s002}
+  - {type: punctuation, offset: 5, content: 、, id: KR6q0610_DZZ_380-bkkpn4}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR6q0610_DZZ_0293-s003}
+  - {type: punctuation, offset: 12, content: 、, id: KR6q0610_DZZ_380-bkkpn5}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR6q0610_DZZ_0293-s004}
+  - {type: punctuation, offset: 19, content: 。, id: KR6q0610_DZZ_380-bkkpn6}
+  - {type: xml-element, offset: 19, content: '', id: KR6q0610_DZZ_380-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:f9595a70c3c1eb0a1d858999ad601db3108df3dc2d8f9052cbb472085125dffa

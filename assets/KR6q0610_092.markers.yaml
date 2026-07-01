@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6q0610/bkk/v1/markers/92
+seq: 92
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '7', id: KR6q0610_DZZ_092-bkkpn1}
+  - {type: punctuation, offset: 0, content: '1', id: KR6q0610_DZZ_092-bkkpn2}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_092-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0071-s002}
+  - {type: punctuation, offset: 9, content: 。, id: KR6q0610_DZZ_092-bkkpn3}
+  - {type: 'tls:seg-start', offset: 9, content: '', id: KR6q0610_DZZ_0071-s003, seg_type: comm, member_ids: [KR6q0610_DZZ_0071-s003, KR6q0610_DZZ_0071-s004]}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR6q0610_DZZ_0071-s003}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR6q0610_DZZ_0071-s004}
+  - {type: 'tls:seg-end', offset: 15, content: '', id: KR6q0610_DZZ_0071-s004_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR6q0610_DZZ_0071-s005}
+  - {type: punctuation, offset: 19, content: 、, id: KR6q0610_DZZ_092-bkkpn4}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR6q0610_DZZ_0071-s006}
+  - {type: punctuation, offset: 27, content: 。, id: KR6q0610_DZZ_092-bkkpn5}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR6q0610_DZZ_0071-s007}
+  - {type: punctuation, offset: 30, content: 、, id: KR6q0610_DZZ_092-bkkpn6}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR6q0610_DZZ_0071-s008}
+  - {type: punctuation, offset: 33, content: 、, id: KR6q0610_DZZ_092-bkkpn7}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR6q0610_DZZ_0071-s009}
+  - {type: punctuation, offset: 37, content: 。, id: KR6q0610_DZZ_092-bkkpn8}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR6q0610_DZZ_0071-s010}
+  - {type: punctuation, offset: 41, content: 、, id: KR6q0610_DZZ_092-bkkpn9}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR6q0610_DZZ_0071-s011}
+  - {type: punctuation, offset: 44, content: 。, id: KR6q0610_DZZ_092-bkkpn10}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR6q0610_DZZ_0071-s012}
+  - {type: substitution, offset: 46, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
+  - {type: punctuation, offset: 47, content: 。, id: KR6q0610_DZZ_092-bkkpn11}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR6q0610_DZZ_0071-s013}
+  - {type: punctuation, offset: 52, content: 、, id: KR6q0610_DZZ_092-bkkpn12}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR6q0610_DZZ_0071-s014}
+  - {type: punctuation, offset: 57, content: 。, id: KR6q0610_DZZ_092-bkkpn13}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR6q0610_DZZ_0071-s015}
+  - {type: punctuation, offset: 60, content: 、, id: KR6q0610_DZZ_092-bkkpn14}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR6q0610_DZZ_0071-s016}
+  - {type: punctuation, offset: 63, content: 。, id: KR6q0610_DZZ_092-bkkpn15}
+  - {type: 'tls:seg', offset: 63, content: '', id: KR6q0610_DZZ_0071-s017}
+  - {type: substitution, offset: 66, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
+  - {type: punctuation, offset: 67, content: 。, id: KR6q0610_DZZ_092-bkkpn16}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR6q0610_DZZ_0071-s018}
+  - {type: punctuation, offset: 72, content: 、, id: KR6q0610_DZZ_092-bkkpn17}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR6q0610_DZZ_0071-s019}
+  - {type: punctuation, offset: 78, content: 、, id: KR6q0610_DZZ_092-bkkpn18}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR6q0610_DZZ_0071-s020}
+  - {type: punctuation, offset: 84, content: 。, id: KR6q0610_DZZ_092-bkkpn19}
+  - {type: xml-element, offset: 84, content: '', id: KR6q0610_DZZ_092-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:9d254a9d5c3b597c3f05aff3a2be29de5c32cb49433c6867e2f76add60a52317

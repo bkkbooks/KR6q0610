@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/337
+seq: 337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲門示衆云聞聲悟道見色明心作麼生是聞聲悟道見色明心擧手云觀世音菩薩將錢來買胡餅放下手云元來是饅頭
+  hash: sha256:8706ed085309f394544ca8279a4ca4d8e80a6b7460558c1f3e49a33c674b979f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0257-h001}
+  - {type: 'tls:div-end', offset: 48, content: '', id: KR6q0610_DZZ_0257}
+  - {type: 'tls:div-start', offset: 48, content: '', id: KR6q0610_DZZ_0258, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:5a64ebf23b1253ddb62b605ec263f165daa17256db765babe19b9b20f5e7cf59

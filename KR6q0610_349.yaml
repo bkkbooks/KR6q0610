@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/349
+seq: 349
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百丈和尚因雲岩問和尚每日區區為阿誰師曰有一人要岩曰因什麼不教伊自作師曰他無家活
+  hash: sha256:bcbde712e90b7ba8267d667f8ed2e6a8424a4a8effcadc141c48b132cf347514
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0267-h001}
+  - {type: 'tls:div-end', offset: 39, content: '', id: KR6q0610_DZZ_0267}
+  - {type: 'tls:div-start', offset: 39, content: '', id: KR6q0610_DZZ_0268, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:b589249319ac652f6b816e18c55b5d84d023b0efd4d9a13ee7c8d0689e570929

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舒州投子山慈濟大師嗣翠微諱大同因僧問月未圓時如何師曰呑却兩三箇僧曰圓後如何師曰吐却七八箇
+  hash: sha256:47b8a7c2e51d59a74f2e4ba96e5167802f074bc8c712bc26fa701d298acefc14
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0013-h001}
+  - {type: 'tls:div-end', offset: 44, content: '', id: KR6q0610_DZZ_0013}
+  - {type: 'tls:div-start', offset: 44, content: '', id: KR6q0610_DZZ_0014, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:6c8024c272a9d882d6cecd7b291fdde3f5ffd6e72a2a69e86d9c09c6bcb5f188

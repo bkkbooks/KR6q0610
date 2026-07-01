@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR6q0610/DZZ/v1/markers/129
+seq: 129
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_129-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_J1E-s002}
+  - {type: punctuation, offset: 6, content: 。, id: KR6q0610_DZZ_129-bkkpn1}
+  - {type: xml-element, offset: 6, content: '', id: KR6q0610_DZZ_129-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:942c71665d4e8e4794ca99b67171af0b08d1f0f2cec7d3f0011eeae18fde6507

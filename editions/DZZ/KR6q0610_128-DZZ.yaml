@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/128
+seq: 128
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲門因僧問如何是法身向上事師曰向上與汝道不難作麼生是法身僧云請和尚鑑師曰鑑則且致你作麼生會法身僧曰與麼與麼師曰這箇是長連床上學得底我問你法身還喫飯也無僧無語
+  hash: sha256:6766f108ce874e4cdcce61c0124989315a1955b6b775e1445d96c0bbbddb57c2
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0100-h001}
+  - {type: 'tls:div-end', offset: 78, content: '', id: KR6q0610_DZZ_0100}
+  - {type: 'tls:div-start', offset: 78, content: '', id: KR6q0610_DZZ_J1E, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:76c5312761459136f65d7f772149d7a7790679da19692409c25299f059ea07e7

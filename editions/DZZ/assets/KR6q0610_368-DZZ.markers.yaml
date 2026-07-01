@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6q0610/DZZ/v1/markers/368
+seq: 368
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '2', id: KR6q0610_DZZ_368-bkkpn1}
+  - {type: punctuation, offset: 0, content: '8', id: KR6q0610_DZZ_368-bkkpn2}
+  - {type: punctuation, offset: 0, content: '3', id: KR6q0610_DZZ_368-bkkpn3}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_368-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0283-s002}
+  - {type: punctuation, offset: 2, content: 、, id: KR6q0610_DZZ_368-bkkpn4}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR6q0610_DZZ_0283-s003}
+  - {type: punctuation, offset: 5, content: 、, id: KR6q0610_DZZ_368-bkkpn5}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR6q0610_DZZ_0283-s004}
+  - {type: punctuation, offset: 12, content: 。, id: KR6q0610_DZZ_368-bkkpn6}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR6q0610_DZZ_0283-s005}
+  - {type: punctuation, offset: 14, content: 、, id: KR6q0610_DZZ_368-bkkpn7}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR6q0610_DZZ_0283-s006}
+  - {type: punctuation, offset: 19, content: 。, id: KR6q0610_DZZ_368-bkkpn8}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR6q0610_DZZ_0283-s007}
+  - {type: punctuation, offset: 21, content: 、, id: KR6q0610_DZZ_368-bkkpn9}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR6q0610_DZZ_0283-s008}
+  - {type: punctuation, offset: 25, content: 。, id: KR6q0610_DZZ_368-bkkpn10}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR6q0610_DZZ_0283-s009}
+  - {type: punctuation, offset: 27, content: 、, id: KR6q0610_DZZ_368-bkkpn11}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR6q0610_DZZ_0283-s010}
+  - {type: punctuation, offset: 31, content: 。, id: KR6q0610_DZZ_368-bkkpn12}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR6q0610_DZZ_0283-s011}
+  - {type: punctuation, offset: 38, content: 。, id: KR6q0610_DZZ_368-bkkpn13}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR6q0610_DZZ_0283-s012}
+  - {type: punctuation, offset: 40, content: 、, id: KR6q0610_DZZ_368-bkkpn14}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR6q0610_DZZ_0283-s013}
+  - {type: punctuation, offset: 47, content: 。, id: KR6q0610_DZZ_368-bkkpn15}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR6q0610_DZZ_0283-s014}
+  - {type: punctuation, offset: 50, content: 、, id: KR6q0610_DZZ_368-bkkpn16}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR6q0610_DZZ_0283-s015}
+  - {type: punctuation, offset: 57, content: 。, id: KR6q0610_DZZ_368-bkkpn17}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR6q0610_DZZ_0283-s016}
+  - {type: punctuation, offset: 59, content: 、, id: KR6q0610_DZZ_368-bkkpn18}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR6q0610_DZZ_0283-s017}
+  - {type: punctuation, offset: 60, content: 。, id: KR6q0610_DZZ_368-bkkpn19}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR6q0610_DZZ_0283-s018}
+  - {type: punctuation, offset: 62, content: 、, id: KR6q0610_DZZ_368-bkkpn20}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR6q0610_DZZ_0283-s019}
+  - {type: punctuation, offset: 66, content: 。, id: KR6q0610_DZZ_368-bkkpn21}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR6q0610_DZZ_0283-s020}
+  - {type: punctuation, offset: 68, content: 、, id: KR6q0610_DZZ_368-bkkpn22}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR6q0610_DZZ_0283-s021}
+  - {type: punctuation, offset: 69, content: 。, id: KR6q0610_DZZ_368-bkkpn23}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR6q0610_DZZ_0283-s022}
+  - {type: punctuation, offset: 73, content: 、, id: KR6q0610_DZZ_368-bkkpn24}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR6q0610_DZZ_0283-s023}
+  - {type: punctuation, offset: 77, content: 。, id: KR6q0610_DZZ_368-bkkpn25}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR6q0610_DZZ_0283-s024}
+  - {type: punctuation, offset: 83, content: 。, id: KR6q0610_DZZ_368-bkkpn26}
+  - {type: xml-element, offset: 83, content: '', id: KR6q0610_DZZ_368-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:cb02105f865cc2cc2401a311a5e99b62319845f67a90feab486838c0626f9cce

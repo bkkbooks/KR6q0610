@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/218
+seq: 218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二祖阿難尊者問迦葉尊者曰師兄傳佛金襴袈裟外別傳箇什麼迦葉召曰阿難阿難應諾迦葉曰倒却門前刹竿著阿難大悟
+  hash: sha256:449c25a977b92079bd9e7421c54ab26bf8f6e2f04686787b1421b389ecbceab5
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0169-h001}
+  - {type: 'tls:div-end', offset: 50, content: '', id: KR6q0610_DZZ_0169}
+  - {type: 'tls:div-start', offset: 50, content: '', id: KR6q0610_DZZ_0170, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:07552b0fb3d1d6136aba02407913b75794be684bc31b0875cc3124a6ec0454eb

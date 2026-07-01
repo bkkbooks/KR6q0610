@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/113
+seq: 113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 石霜一日問侍者曰道吾長向僧道莫棄那邊著這邊你作麼生者曰一依和尚所會師曰作麼生是我會處者從西過東而立師曰你正是棄那邊著這邊
+  hash: sha256:1b2bb98aff5c98bd9cd211088207f4902c6fb76996c253ae37bb0fa007579dad
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0089-h001}
+  - {type: 'tls:div-end', offset: 60, content: '', id: KR6q0610_DZZ_0089}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:18ca22401faa26f6752bcad0502bf6c77cc4dda08e055c52c6ad07b0927d31c9

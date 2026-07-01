@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/386
+seq: 386
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長慶有時云寧說阿羅漢有三毒不說如來有二種語不道如來無語只是無二種語保福曰作麼生是如來語師曰聾人爭得聞保福曰情知汝向第二頭道師曰作麼生是如來語保福云喫茶去
+  hash: sha256:78c089ca2f6403b2b2a8eb4057a4e936b2125a65222de6898481e5f80a65abaf
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0298-h001}
+  - {type: 'tls:div-end', offset: 76, content: '', id: KR6q0610_DZZ_0298}
+  - {type: 'tls:div-start', offset: 76, content: '', id: KR6q0610_DZZ_0299, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:d5505022d05d0268525d4b727614f7a64a09fa5a0205a5de96fa34a0ab933469

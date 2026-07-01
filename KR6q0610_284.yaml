@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明州天童山景德寺咸啓禪師嗣洞山因有僧問學人卓卓上來請師的的師曰我這裡一屙便了有什麼卓卓的的僧曰和尚與麼對話更買草鞋行腳好師云近前來僧近前師云只如老僧與麼祗對過在什麼處僧無對師便打
+  hash: sha256:9870a76cfca460b7aa1b9dec57099b275d0b988e33a9b0b42e047d713637f4a1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0215-h001}
+  - {type: 'tls:div-end', offset: 89, content: '', id: KR6q0610_DZZ_0215}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:bdea53d23c98eaebdcbd4076148eea4e7df992336a3672223bfe159aa515903e

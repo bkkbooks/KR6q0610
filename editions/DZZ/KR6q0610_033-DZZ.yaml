@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 益州大隋山神照大師嗣長慶大安諱法眞因僧問劫火洞然大千倶壞未審這箇還壞也無師曰壞僧曰恁麼則隨他去也師曰隨他去
+  hash: sha256:26d7aafda13271de75bf785a1e3b36a55246da1de48f39f9cb6c4fe88188ae0f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0024-h001}
+  - {type: 'tls:div-end', offset: 53, content: '', id: KR6q0610_DZZ_0024}
+  - {type: 'tls:div-start', offset: 53, content: '', id: KR6q0610_DZZ_0025, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:efa0be78cc6413863a1cf55db810921790847619eadf5ab2e2e8d404e46c0616

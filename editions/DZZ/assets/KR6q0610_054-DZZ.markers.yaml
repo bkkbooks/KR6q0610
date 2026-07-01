@@ -1,0 +1,32 @@
+canonical_identifier: bkk:krp/KR6q0610/DZZ/v1/markers/54
+seq: 54
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '4', id: KR6q0610_DZZ_054-bkkpn1}
+  - {type: punctuation, offset: 0, content: '0', id: KR6q0610_DZZ_054-bkkpn2}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_054-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0040-s002}
+  - {type: punctuation, offset: 7, content: 。, id: KR6q0610_DZZ_054-bkkpn3}
+  - {type: 'tls:seg-start', offset: 7, content: '', id: KR6q0610_DZZ_0040-s003, seg_type: comm, member_ids: [KR6q0610_DZZ_0040-s003]}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR6q0610_DZZ_0040-s003}
+  - {type: 'tls:seg-end', offset: 13, content: '', id: KR6q0610_DZZ_0040-s003_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 13, content: '', id: KR6q0610_DZZ_0040-s004}
+  - {type: punctuation, offset: 15, content: 。, id: KR6q0610_DZZ_054-bkkpn4}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR6q0610_DZZ_0040-s005}
+  - {type: punctuation, offset: 21, content: 。, id: KR6q0610_DZZ_054-bkkpn5}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR6q0610_DZZ_0040-s006}
+  - {type: punctuation, offset: 24, content: 。, id: KR6q0610_DZZ_054-bkkpn6}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR6q0610_DZZ_0040-s007}
+  - {type: punctuation, offset: 26, content: 、, id: KR6q0610_DZZ_054-bkkpn7}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR6q0610_DZZ_0040-s008}
+  - {type: punctuation, offset: 31, content: 、, id: KR6q0610_DZZ_054-bkkpn8}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR6q0610_DZZ_0040-s009}
+  - {type: punctuation, offset: 38, content: 、, id: KR6q0610_DZZ_054-bkkpn9}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR6q0610_DZZ_0040-s010}
+  - {type: punctuation, offset: 48, content: 。, id: KR6q0610_DZZ_054-bkkpn10}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR6q0610_DZZ_0040-s011}
+  - {type: punctuation, offset: 57, content: 。, id: KR6q0610_DZZ_054-bkkpn11}
+  - {type: xml-element, offset: 57, content: '', id: KR6q0610_DZZ_054-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:a9063314aef971bd0348bd773957247c6d2e5aaa0ba9a8989bcba4a25cc674da

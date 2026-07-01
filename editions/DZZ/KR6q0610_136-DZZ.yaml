@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/136
+seq: 136
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大潙山大圓禪師坐次仰山侍立師云寂子近日宗門中令嗣作麼生仰曰大有人疑著此事師云寂子又作麼生仰云某甲祗管困來合眼健即坐禪所以未曾説著師云到這田地也難得仰曰據某甲見處著一句語亦不得師云子爲一人也不得仰云自古聖人盡皆如是師云大有人笑汝與麼祗對仰云解笑某甲是某甲同參師云出頭作麼生仰遶禪牀一匝師云裂破古今
+  hash: sha256:1378dc99927a43d9420492670c9609abcc35a071b8dfc7335bee96c7588098ad
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0103-h001}
+  - {type: 'tls:div-end', offset: 147, content: '', id: KR6q0610_DZZ_0103}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:9b29349902a1669acee50263272958a92e7bc3fae445e317afc4636ad8805fe1

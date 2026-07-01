@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/229
+seq: 229
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臨濟因半夏上黄蘗山問訊見黄蘗看經乃曰我將謂是箇人元來是淹黒豆老和尚住數日乃辭去蘗曰汝破夏來不終夏了去師曰某甲暫來禮拜和尚蘗遂打趁令去師行數里疑此事却廻終夏
+  hash: sha256:f5037151d62b16073f89ff7f03e1250f44aae49ed14d17bb1ddb97c9d23aeb78
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0178-h001}
+  - {type: 'tls:div-end', offset: 77, content: '', id: KR6q0610_DZZ_0178}
+  - {type: 'tls:div-start', offset: 77, content: '', id: KR6q0610_DZZ_0179, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:4bc3601cda012edc96795dd060876934ddabfbd62e5b105132f1fd1697c9ae55

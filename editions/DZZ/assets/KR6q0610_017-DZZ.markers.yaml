@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6q0610/DZZ/v1/markers/17
+seq: 17
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR6q0610_DZZ_005-132}
+  back: []
+hash: sha256:b9b67a110cb2aff8a547ae863b906b533ccdcde177d4e9b3bc2658e337164fe6

@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6q0610/bkk/v1/markers/149
+seq: 149
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '1', id: KR6q0610_DZZ_149-bkkpn1}
+  - {type: punctuation, offset: 0, content: '1', id: KR6q0610_DZZ_149-bkkpn2}
+  - {type: punctuation, offset: 0, content: '3', id: KR6q0610_DZZ_149-bkkpn3}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_149-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0113-s002}
+  - {type: substitution, offset: 3, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3262}}
+  - {type: punctuation, offset: 11, content: 、, id: KR6q0610_DZZ_149-bkkpn4}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR6q0610_DZZ_0113-s003}
+  - {type: punctuation, offset: 15, content: 、, id: KR6q0610_DZZ_149-bkkpn5}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR6q0610_DZZ_0113-s004}
+  - {type: punctuation, offset: 19, content: 。, id: KR6q0610_DZZ_149-bkkpn6}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR6q0610_DZZ_0113-s005}
+  - {type: punctuation, offset: 21, content: 、, id: KR6q0610_DZZ_149-bkkpn7}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR6q0610_DZZ_0113-s006}
+  - {type: punctuation, offset: 28, content: 、, id: KR6q0610_DZZ_149-bkkpn8}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR6q0610_DZZ_0113-s007}
+  - {type: punctuation, offset: 32, content: 、, id: KR6q0610_DZZ_149-bkkpn9}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR6q0610_DZZ_0113-s008}
+  - {type: substitution, offset: 34, original: 覰, replacement: 覷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4037}}
+  - {type: punctuation, offset: 37, content: 。, id: KR6q0610_DZZ_149-bkkpn10}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR6q0610_DZZ_0113-s009}
+  - {type: punctuation, offset: 41, content: 、, id: KR6q0610_DZZ_149-bkkpn11}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR6q0610_DZZ_0113-s010}
+  - {type: punctuation, offset: 46, content: 。, id: KR6q0610_DZZ_149-bkkpn12}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR6q0610_DZZ_0113-s011}
+  - {type: punctuation, offset: 51, content: 、, id: KR6q0610_DZZ_149-bkkpn13}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR6q0610_DZZ_0113-s012}
+  - {type: punctuation, offset: 57, content: 。, id: KR6q0610_DZZ_149-bkkpn14}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR6q0610_DZZ_0113-s013}
+  - {type: punctuation, offset: 59, content: 、, id: KR6q0610_DZZ_149-bkkpn15}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR6q0610_DZZ_0113-s014}
+  - {type: punctuation, offset: 62, content: 、, id: KR6q0610_DZZ_149-bkkpn16}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR6q0610_DZZ_0113-s015}
+  - {type: punctuation, offset: 67, content: 、, id: KR6q0610_DZZ_149-bkkpn17}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR6q0610_DZZ_0113-s016}
+  - {type: punctuation, offset: 72, content: 。, id: KR6q0610_DZZ_149-bkkpn18}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR6q0610_DZZ_0113-s017}
+  - {type: punctuation, offset: 76, content: 、, id: KR6q0610_DZZ_149-bkkpn19}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR6q0610_DZZ_0113-s018}
+  - {type: punctuation, offset: 81, content: 。, id: KR6q0610_DZZ_149-bkkpn20}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR6q0610_DZZ_0113-s019}
+  - {type: punctuation, offset: 87, content: 、, id: KR6q0610_DZZ_149-bkkpn21}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR6q0610_DZZ_0113-s020}
+  - {type: punctuation, offset: 93, content: 。, id: KR6q0610_DZZ_149-bkkpn22}
+  - {type: 'tls:seg', offset: 93, content: '', id: KR6q0610_DZZ_0113-s021}
+  - {type: punctuation, offset: 99, content: 。, id: KR6q0610_DZZ_149-bkkpn23}
+  - {type: xml-element, offset: 99, content: '', id: KR6q0610_DZZ_149-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:687b7737713fdf9d29c4dd3b0191f104cc6786574d1cf4fd11464ba1bd4324ad

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/183
+seq: 183
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第三十一祖大醫禪師問三祖如何是古佛心三祖曰汝今是什麼心師曰我今無心三祖曰汝既無心諸佛豈有耶師於是頓息其疑
+  hash: sha256:738ceb3971d8ef055c9dcb3e404d258d3bb417aed7da37f462016f38dfbdcc96
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0140-h001}
+  - {type: 'tls:div-end', offset: 52, content: '', id: KR6q0610_DZZ_0140}
+  - {type: 'tls:div-start', offset: 52, content: '', id: KR6q0610_DZZ_0141, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:ed9d407d959bfeed3ec505d16dcf24d6f2248da30de462bcf71a543289b2cdb8

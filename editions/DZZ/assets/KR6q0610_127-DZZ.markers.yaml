@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR6q0610/DZZ/v1/markers/127
+seq: 127
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '9', id: KR6q0610_DZZ_127-bkkpn1}
+  - {type: punctuation, offset: 0, content: '9', id: KR6q0610_DZZ_127-bkkpn2}
+  - {type: xml-element, offset: 0, content: '', id: KR6q0610_DZZ_127-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR6q0610_DZZ_0099-s002}
+  - {type: punctuation, offset: 7, content: 、, id: KR6q0610_DZZ_127-bkkpn3}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR6q0610_DZZ_0099-s003}
+  - {type: punctuation, offset: 12, content: 、, id: KR6q0610_DZZ_127-bkkpn4}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR6q0610_DZZ_0099-s004}
+  - {type: punctuation, offset: 17, content: 。, id: KR6q0610_DZZ_127-bkkpn5}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR6q0610_DZZ_0099-s005}
+  - {type: punctuation, offset: 21, content: 。, id: KR6q0610_DZZ_127-bkkpn6}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR6q0610_DZZ_0099-s006}
+  - {type: punctuation, offset: 24, content: 、, id: KR6q0610_DZZ_127-bkkpn7}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR6q0610_DZZ_0099-s007}
+  - {type: punctuation, offset: 29, content: 、, id: KR6q0610_DZZ_127-bkkpn8}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR6q0610_DZZ_0099-s008}
+  - {type: punctuation, offset: 34, content: 。, id: KR6q0610_DZZ_127-bkkpn9}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR6q0610_DZZ_0099-s009}
+  - {type: punctuation, offset: 38, content: 。, id: KR6q0610_DZZ_127-bkkpn10}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR6q0610_DZZ_0099-s010}
+  - {type: punctuation, offset: 42, content: 。, id: KR6q0610_DZZ_127-bkkpn11}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR6q0610_DZZ_0099-s011}
+  - {type: punctuation, offset: 46, content: 。, id: KR6q0610_DZZ_127-bkkpn12}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR6q0610_DZZ_0099-s012}
+  - {type: punctuation, offset: 51, content: 、, id: KR6q0610_DZZ_127-bkkpn13}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR6q0610_DZZ_0099-s013}
+  - {type: punctuation, offset: 55, content: 。, id: KR6q0610_DZZ_127-bkkpn14}
+  - {type: xml-element, offset: 55, content: '', id: KR6q0610_DZZ_127-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:38a4c6d2b4ef005d7dfb92b0b23e47119283b3ae3382773268fcabc83d9976a4

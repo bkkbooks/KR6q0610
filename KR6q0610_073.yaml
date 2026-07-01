@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大溈問仰山曰有俗弟子將三束絹與我贖鐘子與世人受福仰云俗弟子即有絹與和尚贖鐘子和尚將何物酬他師以拄杖敲牀三下云我將這箇酬他仰云若是這箇用作什麼師又敲三下云汝嫌這箇作什麼仰云某甲不嫌這箇是大家底師曰汝既知是大家底何得更就我覓物酬他仰云只怪和尚把大家底行人事師曰汝不見達磨大師從西天來此土亦將此物人事汝諸人盡是受他信物者
+  hash: sha256:f06594a8632ab68f9d0fd7157efa255b7c20c1d2db3fff0b1cd124641bc2084e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0056-h001}
+  - {type: 'tls:div-end', offset: 157, content: '', id: KR6q0610_DZZ_0056}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:2170bdaeb78d1e63feecc03eece872b6fd561f9a0c37ada83432fb402cc6f83f

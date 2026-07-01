@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/123
+seq: 123
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 普化與臨濟在施主家齊濟問毛吞巨海芥納須彌為復是神通妙用為復是法爾如然師遂躍倒飯牀濟曰太麁生師曰這裏是甚所在說麁說細濟休去又同一家赴齊濟問今日供養何似昨日師又躍倒飯牀濟曰太麁生師云瞎漢佛法說甚麁細濟乃吐舌
+  hash: sha256:6ab39511ad895dba8d507079724a022be4b8530151a94c58bb940c454b004a4d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0096-h001}
+  - {type: 'tls:div-end', offset: 101, content: '', id: KR6q0610_DZZ_0096}
+  - {type: 'tls:div-start', offset: 101, content: '', id: KR6q0610_DZZ_0097, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:399f047885185ed60bb44461e40db0b3693a387e30ccfa2c0c97e12d0c010695

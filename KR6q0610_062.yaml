@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大溈一日坐收足次乃指謂仰山曰十二時中承他負載不可辜他仰曰昔日給孤獨園中也只說者箇師曰未在更道仰云寒時與他襪著也不為分外
+  hash: sha256:4d44752b3f9867092ddba0aa4a184d1dd602ea53697fc37bc04a44bb2340e263
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0047-h001}
+  - {type: 'tls:div-end', offset: 59, content: '', id: KR6q0610_DZZ_0047}
+  - {type: 'tls:div-start', offset: 59, content: '', id: KR6q0610_DZZ_0048, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:9f942ba2bc2bfadc1768780eb08166b4730df1c49a7e30d938bdb73eaa1a0d47

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/209
+seq: 209
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 潭州石室善道禪師嗣長髭見僧來拈拄杖曰過去諸佛也恁麼現在諸佛也恁麼未來諸佛也恁麼
+  hash: sha256:360e665d3ffd96895b508545b4e37bef5e9da48009364f00850497b6a67f19cd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0161-h001}
+  - {type: 'tls:div-end', offset: 39, content: '', id: KR6q0610_DZZ_0161}
+  - {type: 'tls:div-start', offset: 39, content: '', id: KR6q0610_DZZ_0162, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:6c5ab145ea6ed81c4273489cad1e24ba7461f35eee2c6d396a6cbad09dac295f

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/345
+seq: 345
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汝州寶應顒禪師嗣興化諱慧顒因僧問赤肉團上壁立千仭豈不是和尚與麼道師曰是僧便掀倒禪牀師云你看這瞎漢亂作僧擬議師便打趁出院
+  hash: sha256:89e29554057ee2063aa9281057064adbda9e305da713240d4285357f9c4a653c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0264-h001}
+  - {type: 'tls:div-end', offset: 59, content: '', id: KR6q0610_DZZ_0264}
+  - {type: 'tls:div-start', offset: 59, content: '', id: KR6q0610_DZZ_0265, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:b6f62afa34b5099ffc06275724427bb3c1305e7e95c2ae1bb8bc1fcc9355d5c3

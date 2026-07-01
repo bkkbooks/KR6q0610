@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/158
+seq: 158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 進山主嗣地藏問修山主曰明知生不生性爲什麼爲生之所留修曰筍畢竟成竹如今作篾使還得麼師曰汝向後自悟在修曰某甲只如此上座意旨如何師云遮箇是監院房那箇是典座房修便禮拜
+  hash: sha256:1bfa14d4802aaa6b2499b45e5274470931527e1559146bc6ce8212d0aeb1bbaf
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0120-h001}
+  - {type: 'tls:div-end', offset: 79, content: '', id: KR6q0610_DZZ_0120}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:5bc1495b3dc25c95209d3c04109db1afd4d9d05852091d692cbe3f91caccadd0

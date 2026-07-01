@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲居山弘覺禪師嗣洞山諱道膺因官人送供問曰世尊有密語迦葉不覆藏如何是世尊密語師召曰尚書其人應諾師曰會麼云不會師曰汝若不會世尊密語汝若會迦葉不覆藏
+  hash: sha256:130e8f7ef70785c0ad92eed8d52639673be4acfcaeb4bc6c452166f31c58d628
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0034-h001}
+  - {type: 'tls:div-end', offset: 71, content: '', id: KR6q0610_DZZ_0034}
+  - {type: 'tls:div-start', offset: 71, content: '', id: KR6q0610_DZZ_0035, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:287f79dcc1b1b67b5a57e3a88a8f6bddb1070f1236f1fb0197bb207378a26cb0

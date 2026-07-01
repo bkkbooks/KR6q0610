@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/380
+seq: 380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南泉示衆曰三世諸佛不知有狸奴白牯却知有
+  hash: sha256:fa807c0b982afd5f2e9144170720da0368c229a5496c3e9978df9f461ea61cff
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0293-h001}
+  - {type: 'tls:div-end', offset: 19, content: '', id: KR6q0610_DZZ_0293}
+  - {type: 'tls:div-start', offset: 19, content: '', id: KR6q0610_DZZ_0294, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:56e775745796461b239881f6e18bf76fa0e38efa71dda5713b6384f590772872

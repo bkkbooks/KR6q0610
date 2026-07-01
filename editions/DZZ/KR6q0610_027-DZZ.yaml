@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR6q0610_DZZ_0020, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:656c141b342ee5572b68c0241305fd53cbeb7a0c36bec3f42d88656de2065408

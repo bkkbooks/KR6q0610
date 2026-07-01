@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/139
+seq: 139
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲岩問道吾大悲菩薩用許多手眼作什麼吾曰如人夜間背手摸枕子師曰我會也我會也吾云你作麼生會師曰遍身是手眼吾曰道即太煞道祗道得八九成師曰師兄作麼生吾曰通身是手眼
+  hash: sha256:1026857ba5e72642b4b553f47da830f349ee546264d037f28e29f37279c15968
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0105-h001}
+  - {type: 'tls:div-end', offset: 77, content: '', id: KR6q0610_DZZ_0105}
+  - {type: 'tls:div-start', offset: 77, content: '', id: KR6q0610_DZZ_0106, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:2eaf95de9bc06d35c03d3829ace64a4004658ed32141af702d902d6ab881d0d9

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/244
+seq: 244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馬祖因僧問如何是祖師西來意師曰近前來向你道僧近前師擗耳便掌曰六耳不同謀
+  hash: sha256:cb41f4eab3c6b405527a34c81cd8dc352caa8d8974b455fe646ae93a61d4d7af
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0190-h001}
+  - {type: 'tls:div-end', offset: 35, content: '', id: KR6q0610_DZZ_0190}
+  - {type: 'tls:div-start', offset: 35, content: '', id: KR6q0610_DZZ_0191, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:5ea530e8e6bed9db7bc95db99dace8ac968321d259997ae502bbedaef0801a4b

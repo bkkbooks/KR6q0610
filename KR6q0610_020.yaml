@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6q0610/dzz/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 潭州大溈山大圓禪師嗣百丈諱靈祐因仰山問百千萬境一時來時作麼生師云青不是黃長不是短諸法各住自位非干我事仰乃作禮
+  hash: sha256:2b659d8bb1d043d0e99a0ccf919d4e368257e0bf8d749587b67849f08b05ac1e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0014-h001}
+  - {type: 'tls:div-end', offset: 54, content: '', id: KR6q0610_DZZ_0014}
+  - {type: 'tls:div-start', offset: 54, content: '', id: KR6q0610_DZZ_0015, level: 2}
+metadata:
+  title: 眞字正法眼藏
+  edition:
+    short: dzz
+  source:
+    repository: tls-texts
+    path: data/tls/KR6q0610.xml
+hash: sha256:a48e9ce7ecb028d454565f64b68ba6d3d507bbab3055650186c3ea98fcea9bb3
