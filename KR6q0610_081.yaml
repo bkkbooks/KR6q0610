@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 潭州神山僧密禪師嗣雲岩與洞山行次山指傍院曰裏面有人說心說性師曰是誰洞山曰被師伯一問直得去死十分師曰說心說性底誰洞山曰死中得活
-  hash: sha256:2035e5f6025103d1456a1a13214b83f0ce27d2f3e56a1309ce14192056f0908e
+  text: 潭州神山僧密禪師嗣雲岩與洞山行次山指傍院曰裏面有人説心説性師曰是誰洞山曰被師伯一問直得去死十分師曰説心説性底誰洞山曰死中得活
+  hash: sha256:232cb71ab72b18e3ece019353579c8ce698d9978c20e540a3966356714bdd65e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0062-h001}
   - {type: 'tls:div-end', offset: 62, content: '', id: KR6q0610_DZZ_0062}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:e9b345e3da9b631a48e45bcc68170e565d2fc5d68bd5f30daeea8eda327995a6
+hash: sha256:ac57dca138e77d81537b1999af2b09f8416720ed58629daf27b6f2fd68712db4

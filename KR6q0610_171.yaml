@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大溈問仰山忽有人問一切衆生但有業識茫茫無本可據子作麼生驗仰曰慧寂有驗處時有僧面前過寂召曰闍梨僧回頭寂云和尚這箇便是業識茫茫無本可據師云此是獅子一滴乳迸散六斛驢乳
-  hash: sha256:280d92ef4843755553322d41d02bb2c96afac59767453c9c3ab700daddadd911
+  text: 大潙問仰山忽有人問一切衆生但有業識茫茫無本可據子作麼生驗仰曰慧寂有驗處時有僧面前過寂召曰闍梨僧廻頭寂云和尚這箇便是業識茫茫無本可據師云此是獅子一滴乳迸散六斛驢乳
+  hash: sha256:78ba72d877e89b691b6d168e589a6d3c915829c0715de20e4dffdfe72f5a0b7d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0130-h001}
   - {type: 'tls:div-end', offset: 80, content: '', id: KR6q0610_DZZ_0130}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d1cf3474c7c5b985cdbc913fa8c1fd08d91dc2e7461eb10b9dae0932aae0ce1f
+hash: sha256:8327d8d01405a8ea998b435e4e9b1fd3501f9644351b6a0ae59a37ce4f2b66fd

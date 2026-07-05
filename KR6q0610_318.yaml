@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 玄沙因參次聞𪈏子聲乃曰深談實相善說法要下座尋後有僧請益曰某甲不會師云去無人信汝
-  hash: sha256:aab0013350f136c8995478da3706080cfb10231e2eaa06b2456862d9e7987daf
+  text: 玄沙因參次聞𪈏子聲乃曰深談實相善説法要下座尋後有僧請益曰某甲不會師云去無人信汝
+  hash: sha256:2fe35cdbd9648fbd9d1e8883113ad2e3234f3686874ccd4963091d94347c78a9
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0241-h001}
   - {type: 'tls:div-end', offset: 39, content: '', id: KR6q0610_DZZ_0241}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:e6bbef71e836772aef319fd80cc8fb2c505ab145001f9634d140a94e22834ff8
+hash: sha256:27fb7bf87a22add195405976892c14ae3ca4a8fab085975435937fe08a6aa682

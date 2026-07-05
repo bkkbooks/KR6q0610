@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 南泉因僧問牛頭未見四祖時為甚麼百鳥銜花獻師曰步步踏佛階梯僧曰見後為甚麼不銜花獻師曰直饒不來猶較王老師一線道
-  hash: sha256:84a0c5a14f6a2cad4629bc012a83e990d24398f53e8afcd38372ee0334994e8d
+  text: 南泉因僧問牛頭未見四祖時爲甚麼百鳥銜花獻師曰歩歩踏佛階梯僧曰見後爲甚麼不銜花獻師曰直饒不來猶較王老師一線道
+  hash: sha256:e707353ef17e2a49d041dd821e7fe05a7a29244eab7954c84ec915e8262f963f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0051-h001}
   - {type: 'tls:div-end', offset: 53, content: '', id: KR6q0610_DZZ_0051}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:32049c1643cef4658c36c25c8cc7daf856866931c1ee05467a8e99c8faa09eb4
+hash: sha256:fe33abd7cb808adbca5b147608bf5f2c75d2dc1dc2c596d5124632a6c72f4f2c

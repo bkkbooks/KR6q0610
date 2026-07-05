@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 麻谷山寶徹禪師嗣馬祖一日使扇次有僧問風性常住無處不周和尚為甚却搖扇師云你只知風性常住且不知無處不周僧云作麼生是無處不周底道理師却搖扇僧作禮師云無用處師僧著得一千箇有什麼益
-  hash: sha256:31ef41cc2ada176f0a154ea3b000f1f64f4305c5d9bd79cd5ec5efd0de43c6f8
+  text: 麻谷山寶徹禪師嗣馬祖一日使扇次有僧問風性常住無處不周和尚爲甚却搖扇師云你只知風性常住且不知無處不周僧云作麼生是無處不周底道理師却搖扇僧作禮師云無用處師僧著得一千箇有什麼益
+  hash: sha256:74e71cffdc2238268d943a8668a3af8ab98782c38aa04d1bb8e9461e7c799f9a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0123-h001}
   - {type: 'tls:div-end', offset: 85, content: '', id: KR6q0610_DZZ_0123}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:b4257cc73f1a98f6e024524b56ec17aed8adb54b584dbd556245568975ceec8e
+hash: sha256:4845b4f23904730e413ef20a2861150772c30d1f12e7c4202593ceb010d5bf2a

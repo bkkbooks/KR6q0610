@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 地藏院真應大師因玄沙問三界唯一心汝作麼生會師指椅子曰和尚喚這箇作什麼沙曰椅子師云和尚不會三界唯心沙云我喚這箇作竹木汝喚作什麼師云某甲亦喚作竹木沙曰盡大地覓一箇會佛法人不可得
-  hash: sha256:ab55f327a400fa3341d979088ebcf304030acf7abd17e8b019711df2d6c46295
+  text: 地藏院眞應大師因玄沙問三界唯一心汝作麼生會師指椅子曰和尚喚這箇作什麼沙曰椅子師云和尚不會三界唯心沙云我喚這箇作竹木汝喚作什麼師云某甲亦喚作竹木沙曰盡大地覓一箇會佛法人不可得
+  hash: sha256:a1f5841c4505cfe38cd2e289758288a6acf2c21bd4865989fce42e2a8802ba16
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0112-h001}
   - {type: 'tls:div-end', offset: 86, content: '', id: KR6q0610_DZZ_0112}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:5622e0bd69d4af15f7a000bdc8bc150ff6d3058c655fd360ad21123bf057c2f9
+hash: sha256:b3f815b6e6378e325c76346c34b24a76bd2444b3a2c692296e5759004ef516dc

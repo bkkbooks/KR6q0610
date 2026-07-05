@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 杭州大慈山性空大師嗣百丈諱寰中示衆云說得一丈不如行取一尺說得一尺不如行取一寸洞山曰說取行不得底行取說不得底
-  hash: sha256:b86bb2d2efa9a5301bd1e58fa758050e4775de7e3a93dd3addd6fc8be5a500be
+  text: 杭州大慈山性空大師嗣百丈諱寰中示衆云説得一丈不如行取一尺説得一尺不如行取一寸洞山曰説取行不得底行取説不得底
+  hash: sha256:3b356e06abef20046876a155aef9d5bea910b75abfbe6b4d8d381b69b171e941
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0077-h001}
   - {type: 'tls:div-end', offset: 53, content: '', id: KR6q0610_DZZ_0077}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:cf448e565d05be1c8281951ea8a7f1f28ef22789f66ebdb53faaea0c7868c7b8
+hash: sha256:1429ef8c9f24a00cd326eb64f982b323d4ef2afc418de355df6d2733e056a31f

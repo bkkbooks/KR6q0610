@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 曹山因僧問承教有言大海不宿死尸如何是海師曰包含萬有僧云為什麼不宿死尸師曰絶氣者不著僧云既是包含萬有為什麼絶氣者不著師曰萬有非其功絶氣
-  hash: sha256:52ecbd04fea3a32d6afee5a0e62a80b6658ab28b2599e4d7bfb0eeec5deb585d
+  text: 曹山因僧問承教有言大海不宿死屍如何是海師曰包含萬有僧云爲什麼不宿死屍師曰絶氣者不著僧云既是包含萬有爲什麼絶氣者不著師曰萬有非其功絶氣
+  hash: sha256:d89dc18c95e1b8a41d1d415a2b37abb5b472f3755456ab3f3f8dc27dd981a00d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0194-h001}
   - {type: 'tls:div-end', offset: 66, content: '', id: KR6q0610_DZZ_0194}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:acbcca7348d08225b3a5c2043e32dfac76a8848abebd4774fffaaa1b7c190b3e
+hash: sha256:cbaabba1d48b1d4f918e3233a62dd0f81dd2d083a2d65f2ac35dc1ffd2aeb4bd

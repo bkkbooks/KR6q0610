@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 福州雪峰山真覺大師嗣德山諱義存指火爐謂玄沙云三世諸佛盡在裡許轉大法輪沙云近日王令稍嚴師云作麼生沙曰不許人攙奪行市
-  hash: sha256:e4542ebd4c697665e733e81ca0a54dcdb47bd6f111730b5af5c7c8b28b33d820
+  text: 福州雪峰山眞覺大師嗣徳山諱義存指火爐謂玄沙云三世諸佛盡在裡許轉大法輪沙云近日王令稍嚴師云作麼生沙曰不許人攙奪行市
+  hash: sha256:3792986d6de961ad48ba4f030ca5d8600d372b3dd8d7dbd60e4fff8ac8fd9bde
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0038-h001}
   - {type: 'tls:div-end', offset: 56, content: '', id: KR6q0610_DZZ_0038}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:06f94145a2208caef87d7fd8e44ea1915d2972cd4720a13b505c4035c876c2ce
+hash: sha256:5cb45cf3a2f292feb373849397a7143a1e28ae55b0aaa16afb3bf681303cc6ee

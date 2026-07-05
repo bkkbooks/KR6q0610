@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 福州玄沙宗一大師嗣雪峰諱師備因僧問和尚有言盡十方世界是一箇明珠學人如何得會師曰盡十方世界是一箇明珠用會作麼師來日却問其僧盡十方世界是一箇明珠汝作麼生會對曰盡十方世界是一箇明珠用會作麼師曰知汝向黑山鬼窟裡作活計
-  hash: sha256:2e9369e180604b557c005d13e278d6733d78d871e0382d49998b93fcae458658
+  text: 福州玄沙宗一大師嗣雪峰諱師備因僧問和尚有言盡十方世界是一箇明珠學人如何得會師曰盡十方世界是一箇明珠用會作麼師來日却問其僧盡十方世界是一箇明珠汝作麼生會對曰盡十方世界是一箇明珠用會作麼師曰知汝向黒山鬼窟裡作活計
+  hash: sha256:0a17f524baa7afec6e95d28002c8d4d5edd51d85f1f1b6ff84a1f58a9cd5cddb
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0015-h001}
   - {type: 'tls:div-end', offset: 104, content: '', id: KR6q0610_DZZ_0015}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:501a20387eb5406dc9bcb88208a7db1d0f9e633ddc975a4edc5a50f8a5bb2c2b
+hash: sha256:c5c7dfd9ce4e0cc8c958ee83b4c8716f8e6c97cf3d5017eb99bf3d98f04cc0c9

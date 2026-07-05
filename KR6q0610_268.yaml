@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 黃蘗示衆云汝等諸人盡是噇酒糟漢與麼行腳何處有今日事還知大唐國裏無禪師麼時有僧出曰只如諸方匡徒領衆又作麼生師曰不道無禪只是無師
-  hash: sha256:081d49c78c3109871abc593ff5cd553d34ebc39abf157d7f04d783672d6f6fb8
+  text: 黄蘗示衆云汝等諸人盡是噇酒糟漢與麼行脚何處有今日事還知大唐國裏無禪師麼時有僧出曰只如諸方匡徒領衆又作麼生師曰不道無禪只是無師
+  hash: sha256:d2691333b0f2fe4bc0654339ada9c54c689463b43e3c594ca319fcc1df3e514e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0202-h001}
   - {type: 'tls:div-end', offset: 62, content: '', id: KR6q0610_DZZ_0202}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:3740b11838a569a7053712df7c0df137a5030c74238e47fbb77341537a7de631
+hash: sha256:ace8f9051224661a76e4f6ec2663e0792a5e69dcb5f8b2d3355fc7ca235f5e68

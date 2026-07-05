@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大溈因有僧問如何是道師曰無心是道曰某甲不會師曰會取不會底好曰如何是不會底師云祗是你不是別人
-  hash: sha256:7f2bfca97ff8d16425edc80a27be1e1f75ed09a465ba6563044fe5a692522c15
+  text: 大潙因有僧問如何是道師曰無心是道曰某甲不會師曰會取不會底好曰如何是不會底師云祗是你不是別人
+  hash: sha256:392af48aecaae0f19543a87390540854a75f9173c5c9df49dad79dc52089ae67
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0076-h001}
   - {type: 'tls:div-end', offset: 45, content: '', id: KR6q0610_DZZ_0076}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:07892da4c1299fc0e0e905cb641251472c8f5dbe8700b0a0bd9611af13b5b55d
+hash: sha256:67100ef436e8d8f24a733a688f4d71ce07ed0cbf7dd0b0bb329ba333992cb883

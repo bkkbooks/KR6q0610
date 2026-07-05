@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 仰山困溈山問甚處來師曰田中來溈山云田中有多少人師插鍬叉手而立溈山曰今日南山大有人刈茅師拽鍬而去
-  hash: sha256:c8c70987900929a477b15e3138ee7ccd4387e57137a94e9f93bee656332d4331
+  text: 仰山困潙山問甚處來師曰田中來潙山云田中有多少人師插鍬叉手而立潙山曰今日南山大有人刈茅師拽鍬而去
+  hash: sha256:8b62f4581d34dbcfbb4513cdc786557b20dba7d2f392153b738fb800392ddd02
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0068-h001}
   - {type: 'tls:div-end', offset: 47, content: '', id: KR6q0610_DZZ_0068}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:18a966f50968cfaef98cef87c45df80f4e927b747a720fa4b4a3f1d83a074d93
+hash: sha256:c1ed592f0ca76d88190edc5498f3b54b016c17cf669ac37191eb193dbc8e7765

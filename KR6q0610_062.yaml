@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大溈一日坐收足次乃指謂仰山曰十二時中承他負載不可辜他仰曰昔日給孤獨園中也只說者箇師曰未在更道仰云寒時與他襪著也不為分外
-  hash: sha256:4d44752b3f9867092ddba0aa4a184d1dd602ea53697fc37bc04a44bb2340e263
+  text: 大潙一日坐收足次乃指謂仰山曰十二時中承他負載不可辜他仰曰昔日給孤獨園中也只説者箇師曰未在更道仰云寒時與他襪著也不爲分外
+  hash: sha256:8f91b24eec0d216183b56853ef5b03135b72ef726eaed176b3d0aa3d175dadd5
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0047-h001}
   - {type: 'tls:div-end', offset: 59, content: '', id: KR6q0610_DZZ_0047}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:9f942ba2bc2bfadc1768780eb08166b4730df1c49a7e30d938bdb73eaa1a0d47
+hash: sha256:c214772e18da6e479e696e211c0ad083e3029a63b8231a04cf6dabbe96d0f660

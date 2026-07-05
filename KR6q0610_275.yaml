@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 襄州王敬常侍嗣大溈一日與臨濟至僧堂乃問這一堂僧還看經也無曰不看經侍曰還習禪也無曰不習禪侍曰經又不看禪又不習畢竟作什麼濟曰總教成佛作祖去侍曰金屑雖貴落眼成翳又作麼生濟曰我將為你是箇俗漢
-  hash: sha256:6edfdf9b4d6fd75b2096502e390c68e06e4f9b6161bc74a8d4b4b1127be1f9c9
+  text: 襄州王敬常侍嗣大潙一日與臨濟至僧堂乃問這一堂僧還看經也無曰不看經侍曰還習禪也無曰不習禪侍曰經又不看禪又不習畢竟作什麼濟曰總教成佛作祖去侍曰金屑雖貴落眼成翳又作麼生濟曰我將爲你是箇俗漢
+  hash: sha256:462bbbd3b69685462db9f729b5c9ff7496e32f03fb9dd4da737a4a80578790de
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0207-h001}
   - {type: 'tls:div-end', offset: 91, content: '', id: KR6q0610_DZZ_0207}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:ab26d555848125a00ae36da9bc4db57d00247badec9afecaa5c462b183ce83ba
+hash: sha256:37cf9d7bd858961505414f70187ce93476c0ee416c6c62574519cbc6e33fa9ae

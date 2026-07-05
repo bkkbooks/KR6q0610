@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大溈一日臥次仰山來師乃轉面向壁臥仰曰某甲是和尚弟子不用形迹師作起勢仰便出師召曰寂子仰回頭師云聽老僧說箇夢仰低頭作聽勢師曰為我原看仰取一盆水一條手巾來師遂洗面了才坐香嚴入來師云我適來與寂子作一上神通不同小小嚴曰某甲在下面了了得知師曰子試道看香嚴乃點一碗茶來師歎曰二子神通智慧過於鶖子目連
-  hash: sha256:f88d8d4544ff26e1197acd18ce99ccc5ba7ed43c78f29210841ed4a6e1672844
+  text: 大潙一日臥次仰山來師乃轉面向壁臥仰曰某甲是和尚弟子不用形迹師作起勢仰便出師召曰寂子仰廻頭師云聽老僧説箇夢仰低頭作聽勢師曰爲我原看仰取一盆水一條手巾來師遂洗面了纔坐香嚴入來師云我適來與寂子作一上神通不同小小嚴曰某甲在下面了了得知師曰子試道看香嚴乃點一椀茶來師歎曰二子神通智慧過於鶖子目連
+  hash: sha256:5ce8997efbdc935b3e9a294e577a847155d244efb69c8f2fb2ff8cf343af9ab1
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0061-h001}
   - {type: 'tls:div-end', offset: 142, content: '', id: KR6q0610_DZZ_0061}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:2abdd888bd6799ae2372b0dedebaa93f4668f6f1f8034982cc06ac28e6805ce4
+hash: sha256:62bd63373f3c510eeb282a9013457728d5731ff938d3ebddd5878d984f15a694

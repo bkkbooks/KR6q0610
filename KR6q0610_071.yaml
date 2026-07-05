@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洞山因僧問三身中那身說法師曰吾常於此切僧後問曹山洞山道吾常於此切意旨如何山曰要頭斫將去僧又問雪峰峰以拄杖劈口打云我也曾到洞山來
-  hash: sha256:f68e97042d217b74034248c337e54e5aedc4f6481bad496bcfb1a07d860d5b74
+  text: 洞山因僧問三身中那身説法師曰吾常於此切僧後問曹山洞山道吾常於此切意旨如何山曰要頭斫將去僧又問雪峰峰以拄杖劈口打云我也曾到洞山來
+  hash: sha256:73a39c5950ea3d8b24e7c1d162bc3ef643f3c7fa72732a0c7f28f830c19e779b
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0055-h001}
   - {type: 'tls:div-end', offset: 63, content: '', id: KR6q0610_DZZ_0055}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:65657f29cc363b9ec33880b8aa290a8c44f30da3db2da4c2c495210e31476d7d
+hash: sha256:7369c17b30b05e6a38738c71c4256ebcccdcada9e33e53e1ea97a68beca305a2

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鄧州香嚴智間禪師嘗示衆云如人在千尺懸崖口銜樹枝手無所攀腳無所踏忽有人問西來意不對則違他所問若對又喪身失命當恁麼時作麼生即是處有虎頭上座曰上樹即不問未上樹請和尚道師呵呵大笑
-  hash: sha256:34dd909e314835fa953e91057effb5bfc64fccfd460a0458b8595bccf4d5cc04
+  text: 鄧州香嚴智閑禪師嘗示衆云如人在千尺懸崖口啣樹枝手無所攀脚無所踏忽有人問西來意不對則違他所問若對又喪身失命當恁麼時作麼生即是處有虎頭上座曰上樹即不問未上樹請和尚道師呵呵大笑
+  hash: sha256:d3f7ad72039badf7bff5c2a8d238cdd0f0a99de1537a53dbb965d1e55bb36dbc
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0243-h001}
   - {type: 'tls:div-end', offset: 85, content: '', id: KR6q0610_DZZ_0243}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:2998446da79d3a828615ac59229783f5ea37f5cf97117a82559be0eeca44f9ab
+hash: sha256:e4ace87d6ec29375d65eda64acdbe62ccfd2d33f4b5d24448788e4259dad3eda

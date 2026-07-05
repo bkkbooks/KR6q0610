@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大溈問仰山承聞子在百丈問一答十是否仰曰不敢師曰佛法向上道取一句作麼生道仰擬開口師便喝師如是三問仰如是三擬答凡被喝仰低頭垂淚曰先師道教我更遇人始得今日便是遇人也便發心看牛三年一日師入山見在樹下坐禪師以杖點背一下仰回首師云寂子道得也未仰曰雖道不得且不就人別借口師云寂子會也
-  hash: sha256:1ded13bf3ee9a44fc435f6866ad9ed577d1595c2afce308f379bbad7f738a0c5
+  text: 大潙問仰山承聞子在百丈問一答十是否仰曰不敢師曰佛法向上道取一句作麼生道仰擬開口師便喝師如是三問仰如是三擬答凡被喝仰低頭垂涙曰先師道教我更遇人始得今日便是遇人也便發心看牛三年一日師入山見在樹下坐禪師以杖點背一下仰廻首師云寂子道得也未仰曰雖道不得且不就人別借口師云寂子會也
+  hash: sha256:e2c786e74e172abe302c8d0c38784a8a2fc8d233722cb19d1c5df05729203168
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0118-h001}
   - {type: 'tls:div-end', offset: 134, content: '', id: KR6q0610_DZZ_0118}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:59139b1e7ed28922b3fcc727f2fb5d54e49698f50d36906ecc3bc9d3af3677c4
+hash: sha256:c28b9b2a7a24e716be1c7308ea02df5dc49213a4b302de998af24bc08ec96c58

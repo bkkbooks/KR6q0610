@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 袁州仰山通智大師嗣溈山諱慧寂師一日隨溈山開田師問曰遮頭得恁麼低那頭得恁麼高溈山云水能平物但以水平師曰水也無憑和尚但高處高平低處低平溈山然之
-  hash: sha256:9c27b2aab2134eeff7f4344740cb32032a4b964cdde125ed73f33f53e6e32b1f
+  text: 袁州仰山通智大師嗣潙山諱慧寂師一日隨潙山開田師問曰遮頭得恁麼低那頭得恁麼高潙山云水能平物但以水平師曰水也無憑和尚但高處高平低處低平潙山然之
+  hash: sha256:ceba5dfafbdd6c6802f2dfb06ecd2876ae850b92d20723a8b262a5179f0111cc
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0023-h001}
   - {type: 'tls:div-end', offset: 69, content: '', id: KR6q0610_DZZ_0023}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:778b1075d2913fec8bac105253029c1e5b730f69aa982387bdf82e81b4b21ed5
+hash: sha256:bee700f72bc621f3baa507dec8e2f395a062ad444a82245f45e9984e2d0e025a

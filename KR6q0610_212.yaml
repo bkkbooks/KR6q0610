@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臨濟會下有二同學相問離却中下二機請兄道一句子一僧曰擬問即失一曰與麼則禮拜老兄去也一曰這賊師聞乃升堂曰要會臨濟賓主句問取堂中二禪客便下座
-  hash: sha256:27ab7269220af50bb87adb350be21925c2e3a000c23c93b0c0d6b6ddb8b1e7b9
+  text: 臨濟會下有二同學相問離却中下二機請兄道一句子一僧曰擬問即失一曰與麼則禮拜老兄去也一曰這賊師聞乃陞堂曰要會臨濟賓主句問取堂中二禪客便下座
+  hash: sha256:d4f3a4c10ba4505be0c287d15794b76cb2fda3d289d1d98bfb4034af0d109ae6
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0164-h001}
   - {type: 'tls:div-end', offset: 67, content: '', id: KR6q0610_DZZ_0164}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:f9614e913eb81e3c3ff153ee1e9f351bb7b773bc2fa2dc6c8df09fae28b2a41e
+hash: sha256:a0aa5c198446603849bac175fb73b40a0ca3c73d5e466094102a8da31944a8ea

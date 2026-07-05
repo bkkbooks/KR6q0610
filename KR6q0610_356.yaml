@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 福州羅山道間禪師嗣岩頭一日侍岩頭遊山次忽然喚曰和尚頭云作麼師乃近前作禮問和尚豈不是三十年前在洞山又不肯洞山頭云是師云和尚豈不是法嗣德山又不肯德山頭云是師曰不肯德山即不問只如洞山有什麼虧闕頭良久云洞山好佛只是無光師便作禮
-  hash: sha256:6029a484ac0253c887c468b378145a2766881fd6e4b91d60be3f3d2f1eebbc83
+  text: 福州羅山道閑禪師嗣岩頭一日侍岩頭遊山次忽然喚曰和尚頭云作麼師乃近前作禮問和尚豈不是三十年前在洞山又不肯洞山頭云是師云和尚豈不是法嗣徳山又不肯徳山頭云是師曰不肯徳山即不問只如洞山有什麼虧闕頭良久云洞山好佛只是無光師便作禮
+  hash: sha256:ca48b4dc1ee85e659894d882f1110ce679ce20279754784a939d9a7edf27c59a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0273-h001}
   - {type: 'tls:div-end', offset: 109, content: '', id: KR6q0610_DZZ_0273}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:41b0cda22863144e982b4ba1f1d3dbd388009ef37a0b3938ee8cd682d967944c
+hash: sha256:e9442174897e336714627a20dfa70b8bffe03a1cf648abb65e2e835674dca5d0

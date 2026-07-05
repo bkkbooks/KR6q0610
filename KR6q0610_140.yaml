@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 灃州龍潭崇信禪師嗣天皇作餅為業禮天皇和尚出家皇謂云汝執侍吾已後為汝說心要法門凡經一載師曰來時和尚許說心要法門至今未蒙指示皇云吾為汝說來久矣師曰何處是和尚為某說皇云你若不審我則合掌我若坐時汝則侍立汝擎茶來吾為汝受師良久皇云見則便見擬思即差師乃大悟
-  hash: sha256:bc4f2c04659bcc3eef67a0bda6a964eb2d07ca58e6a59b8c68edfe8ac5bf6bb3
+  text: 灃州龍潭崇信禪師嗣天皇作餅爲業禮天皇和尚出家皇謂云汝執侍吾已後爲汝説心要法門凡經一載師曰來時和尚許説心要法門至今未蒙指示皇云吾爲汝説來久矣師曰何處是和尚爲某説皇云你若不審我則合掌我若坐時汝則侍立汝擎茶來吾爲汝受師良久皇云見則便見擬思即差師乃大悟
+  hash: sha256:6cc7c8ddd20d48d9a56d23006d802830977d57cef95a055d926d68bfcf3328ca
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0106-h001}
   - {type: 'tls:div-end', offset: 122, content: '', id: KR6q0610_DZZ_0106}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:4c3e1b061e87f8b883e5a11f2ef36309ab3b19e5457c98c494b84fcd2c985b5e
+hash: sha256:dba6eecba18cc6bb04a67a8136f36724a5c474cdbd1c6f3ad7b3587d325fa9a5

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 普化與臨濟在施主家齊濟問毛吞巨海芥納須彌為復是神通妙用為復是法爾如然師遂躍倒飯牀濟曰太麁生師曰這裏是甚所在說麁說細濟休去又同一家赴齊濟問今日供養何似昨日師又躍倒飯牀濟曰太麁生師云瞎漢佛法說甚麁細濟乃吐舌
-  hash: sha256:6ab39511ad895dba8d507079724a022be4b8530151a94c58bb940c454b004a4d
+  text: 普化與臨濟在施主家齋濟問毛呑巨海芥納須彌爲復是神通妙用爲復是法爾如然師遂趯倒飯牀濟曰太麁生師曰這裏是甚所在説麁説細濟休去又同一家赴齋濟問今日供養何似昨日師又趯倒飯牀濟曰太麁生師云瞎漢佛法説甚麁細濟乃吐舌
+  hash: sha256:0b4296db9223b5921cf69b2797814cb796c45785507beeda747522ba4a16c867
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0096-h001}
   - {type: 'tls:div-end', offset: 101, content: '', id: KR6q0610_DZZ_0096}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:399f047885185ed60bb44461e40db0b3693a387e30ccfa2c0c97e12d0c010695
+hash: sha256:adcf02ef09aad1720483744edbdce1fe2e9ddc03caaee01dff1a11ea8ccee9d7

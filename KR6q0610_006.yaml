@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 趙州真際大師嗣南泉諱從諗問南泉知有底人向什麼處去南泉曰向山前檀越家作一頭水牯牛去師曰謝師指示處泉曰昨夜三更月到窗
-  hash: sha256:eb70d2ef6ed3c84ea8fab201b4c278ea5fbee7089560b91d949ae71a86fd29e7
+  text: 趙州眞際大師嗣南泉諱從諗問南泉知有底人向什麼處去南泉曰向山前檀越家作一頭水牯牛去師曰謝師指示處泉曰昨夜三更月到窗
+  hash: sha256:4ed74d67d3a783427d679447de4899f23e688db870be554a6d3c56b8840bd1e0
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0003-h001}
   - {type: 'tls:div-end', offset: 56, content: '', id: KR6q0610_DZZ_0003}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d0ab1c4ca3556260e9692f782f5167d12b5eac27075f32e4f9205d5752c25dd5
+hash: sha256:237f879f632c9f5d98a9eefdf7c8a44d57694f023c3f4b26f46185ac9b90dfa2

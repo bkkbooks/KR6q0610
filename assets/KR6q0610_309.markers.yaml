@@ -46,15 +46,12 @@ markers:
   - {type: 'tls:seg', offset: 79, content: '', id: KR6q0610_DZZ_0234-s020}
   - {type: punctuation, offset: 83, content: 。, id: KR6q0610_DZZ_309-bkkpn22}
   - {type: 'tls:seg', offset: 83, content: '', id: KR6q0610_DZZ_0234-s021}
-  - {type: substitution, offset: 84, original: 擧, replacement: 舉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0820}}
   - {type: punctuation, offset: 88, content: 。, id: KR6q0610_DZZ_309-bkkpn23}
   - {type: 'tls:seg', offset: 88, content: '', id: KR6q0610_DZZ_0234-s022}
   - {type: punctuation, offset: 90, content: 、, id: KR6q0610_DZZ_309-bkkpn24}
   - {type: 'tls:seg', offset: 90, content: '', id: KR6q0610_DZZ_0234-s023}
-  - {type: substitution, offset: 91, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0610}}
   - {type: punctuation, offset: 94, content: 、, id: KR6q0610_DZZ_309-bkkpn25}
   - {type: 'tls:seg', offset: 94, content: '', id: KR6q0610_DZZ_0234-s024}
-  - {type: substitution, offset: 99, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4507}}
   - {type: punctuation, offset: 100, content: 。, id: KR6q0610_DZZ_309-bkkpn26}
   - {type: 'tls:seg', offset: 100, content: '', id: KR6q0610_DZZ_0234-s025}
   - {type: punctuation, offset: 104, content: 、, id: KR6q0610_DZZ_309-bkkpn27}
@@ -72,4 +69,4 @@ markers:
   - {type: punctuation, offset: 140, content: 。, id: KR6q0610_DZZ_309-bkkpn33}
   - {type: xml-element, offset: 140, content: '', id: KR6q0610_DZZ_309-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:7795edc3c7e97a353380dd99f22290144a0a07ca89080b11d222d1394e780fd0
+hash: sha256:edf4fcfda6430abfc0b14065b44ba19c96930e40c70dc6a693f63b6ea25cd56a

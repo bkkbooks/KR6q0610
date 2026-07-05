@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雲門示衆云百草頭上道將一句來衆無對自代云俱
-  hash: sha256:770f9545090a0f28313d4bba90ad45c627462f17032d5187343a4f76efb29209
+  text: 雲門示衆云百草頭上道將一句來衆無對自代云倶
+  hash: sha256:07081d52bfaeba8352db004c94b4ad59f6717d1690990d96a784032b0a735051
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0162-h001}
   - {type: 'tls:div-end', offset: 21, content: '', id: KR6q0610_DZZ_0162}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:87d40506318196a535b07eb2501318888b5d149d9f5d701accb17c97d0866296
+hash: sha256:2f1094ad63c4ba3530abdaf9067dce44c3038f30820aabd0f067e690e3cb1b6e

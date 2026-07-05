@@ -13,18 +13,14 @@ markers:
   - {type: 'tls:seg', offset: 5, content: '', id: KR6q0610_DZZ_0051-s004}
   - {type: punctuation, offset: 12, content: 、, id: KR6q0610_DZZ_067-bkkpn5}
   - {type: 'tls:seg', offset: 12, content: '', id: KR6q0610_DZZ_0051-s005}
-  - {type: substitution, offset: 12, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 20, content: 。, id: KR6q0610_DZZ_067-bkkpn6}
   - {type: 'tls:seg', offset: 20, content: '', id: KR6q0610_DZZ_0051-s006}
   - {type: punctuation, offset: 22, content: 、, id: KR6q0610_DZZ_067-bkkpn7}
   - {type: 'tls:seg', offset: 22, content: '', id: KR6q0610_DZZ_0051-s007}
-  - {type: substitution, offset: 22, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4507}}
-  - {type: substitution, offset: 23, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4507}}
   - {type: punctuation, offset: 28, content: 。, id: KR6q0610_DZZ_067-bkkpn8}
   - {type: 'tls:seg', offset: 28, content: '', id: KR6q0610_DZZ_0051-s008}
   - {type: punctuation, offset: 30, content: 、, id: KR6q0610_DZZ_067-bkkpn9}
   - {type: 'tls:seg', offset: 30, content: '', id: KR6q0610_DZZ_0051-s009}
-  - {type: substitution, offset: 32, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 39, content: 。, id: KR6q0610_DZZ_067-bkkpn10}
   - {type: 'tls:seg', offset: 39, content: '', id: KR6q0610_DZZ_0051-s010}
   - {type: punctuation, offset: 41, content: 、, id: KR6q0610_DZZ_067-bkkpn11}
@@ -34,4 +30,4 @@ markers:
   - {type: punctuation, offset: 53, content: 。, id: KR6q0610_DZZ_067-bkkpn13}
   - {type: xml-element, offset: 53, content: '', id: KR6q0610_DZZ_067-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:b627637bc98bab30201b7914379723d24a4c5d5f604e6bf6da2c5c39ec5c309f
+hash: sha256:e904c1d19a3ab5239820c45ee5180f4516c37eef6391397d3d7828593dd1bc35

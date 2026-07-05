@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洞山夏末示衆曰初秋夏末直須向萬里無寸草處去衆無語僧舉似石霜霜曰何不道出門便是草
-  hash: sha256:532668a9b1e5633d0c754bc657c776ec4abf222f585c2d458655e665ba9ca4d0
+  text: 洞山夏末示衆曰初秋夏末直須向萬里無寸草處去衆無語僧擧似石霜霜曰何不道出門便是草
+  hash: sha256:9e1a149fff8eb092f7035bd75420fc86bc5d1178bbca8ea747d2c2c2b99f57dd
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0082-h001}
   - {type: 'tls:div-end', offset: 39, content: '', id: KR6q0610_DZZ_0082}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:7741866deb5bec5e96618a09674fa91dd2fd458bbdba4d8f6031359beba8eb2c
+hash: sha256:ff357cb7a629eea2901efa48663e9a146bb65542aad6879417dff9c3491d234d

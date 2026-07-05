@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 羅漢琛和尚見僧來乃竪起拂子示之僧便作禮師云你見箇什麼便作禮僧曰謝和尚指示師便打曰見我竪起拂子便道謝和尚指示見我每日掃地掃牀為甚不道謝和尚指示
-  hash: sha256:d9b92da637bc52798941e4e7f0a08f67420fb0b8d46384cba5d0210e1b2e76c7
+  text: 羅漢琛和尚見僧來乃竪起拂子示之僧便作禮師云你見箇什麼便作禮僧曰謝和尚指示師便打曰見我竪起拂子便道謝和尚指示見我毎日掃地掃牀爲甚不道謝和尚指示
+  hash: sha256:6e7a7834a40c4550a690a90c524494cb876352ad57687942dfe289b1f53210d2
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0229-h001}
   - {type: 'tls:div-end', offset: 70, content: '', id: KR6q0610_DZZ_0229}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:7317d03892e5daa90d93f269e3738f1994675203499768ca1395254d4d09bc3f
+hash: sha256:f20691daec892c110edd76b7e9775380d515f6d0efe866c87ae1c59010cb4c89

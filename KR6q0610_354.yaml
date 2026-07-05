@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 黃蘗斷際禪師因百丈問運闍梨開田不易曰隨衆作務丈曰有煩道用曰爭敢辭勞云開得多少田也師將鋤築地三下丈便喝師掩耳而去
-  hash: sha256:59abe496518147f553bbf56ffd2a42df3f84698f787d1cf3a16b408b216e004f
+  text: 黄蘗斷際禪師因百丈問運闍梨開田不易曰隨衆作務丈曰有煩道用曰爭敢辭勞云開得多少田也師將鋤築地三下丈便喝師掩耳而去
+  hash: sha256:9126a56135a1a1f399d02b93862c36708f5c9f041b7572f95e3ef25b451caf7d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0271-h001}
   - {type: 'tls:div-end', offset: 55, content: '', id: KR6q0610_DZZ_0271}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:213629598a5cf4f82fd20c0d7064cc44bdcb76172716e6d85b8d92abdc5ae9c0
+hash: sha256:ed97940af6e01ace0404db1787ecd66b9cecbd3f86d5df60e246878315c911df

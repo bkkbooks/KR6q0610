@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 疏山到溈山便問承師有言有句無句如藤倚樹忽然樹倒藤枯句歸何處溈山呵呵大笑師云某甲四千里賣布單來和尚何得相弄溈山喚侍者曰取錢還者上座遂囑曰向後有獨眼龍為子點破去在後到明招舉前話招曰溈山可謂頭正尾正只是不遇知音師問樹倒藤枯句歸何處招曰更使溈山笑轉新師於言下有省乃曰溈山元來笑裏有刀
-  hash: sha256:eec14dfb4e0cc344edfb435cee76346929388d9c0072a967c680ee41b1ebc5c0
+  text: 疎山到潙山便問承師有言有句無句如藤倚樹忽然樹倒藤枯句歸何處潙山呵呵大笑師云某甲四千里賣布單來和尚何得相弄潙山喚侍者曰取錢還者上座遂囑曰向後有獨眼龍爲子點破去在後到明招擧前話招曰潙山可謂頭正尾正只是不遇知音師問樹倒藤枯句歸何處招曰更使潙山笑轉新師於言下有省乃曰潙山元來笑裏有刀
+  hash: sha256:6ec84b4b523a14e99896a905eb6f6d3b50d33f54046122e416ea6722863b8cde
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0157-h001}
   - {type: 'tls:div-end', offset: 137, content: '', id: KR6q0610_DZZ_0157}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:353a630b93f9fb274dfca5da7dac482c431bf3a5371103b6b3ebfbdbad5164e3
+hash: sha256:6ce7a81ee61530bab699532119d8f0076ade2eab722d6fdf367858039b23cba3

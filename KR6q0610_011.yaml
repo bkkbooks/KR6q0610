@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 京兆米胡和尚嗣溈山令僧問仰山今時人還假悟否山曰悟即不無爭奈落第二頭何僧回舉似師師深肯之
-  hash: sha256:47b548481706f00cd21ffe383d2068cdd595d93da58df74f0a74fdc48be2659d
+  text: 京兆米胡和尚嗣潙山令僧問仰山今時人還假悟否山曰悟即不無爭奈落第二頭何僧囘擧似師師深肯之
+  hash: sha256:560b7b85f7852eee763e5e3d0fbc9f7162db8f5296526835ed3892e94ea56b59
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0007-h001}
   - {type: 'tls:div-end', offset: 43, content: '', id: KR6q0610_DZZ_0007}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:5860ffdad9a14ceb86df8d384e09567ac76f1cc7ecb364e2fc856bb5fca4f9d0
+hash: sha256:66cd2a907a85ee680280e9ca5911049db15ca5ff39b3eb0453738b47c11ef4d9

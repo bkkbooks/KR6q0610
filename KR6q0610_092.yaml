@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鄂州清平山法喜禪師嗣翠微諱令遵問翠微曰如何是西來的的意翠微曰待無人即向你道師良久曰無人也請師說翠微下禪牀引師入竹園師又云無人也請和尚說翠微指竹云這竿得恁麼長那竿得恁麼短
-  hash: sha256:aeef529a1129fa8778f27cfea547e01eba74b9f6f63db7548cc4e428b2f59655
+  text: 鄂州清平山法喜禪師嗣翠微諱令遵問翠微曰如何是西來的的意翠微曰待無人即向你道師良久曰無人也請師説翠微下禪牀引師入竹園師又云無人也請和尚説翠微指竹云這竿得恁麼長那竿得恁麼短
+  hash: sha256:fdc303fea11e020daa11f30612ec4f9f32745c7267f012cc52d7eb56969cce9b
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0071-h001}
   - {type: 'tls:div-end', offset: 84, content: '', id: KR6q0610_DZZ_0071}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:6a075d257d4856ebf0951aeff76762bfee0bdda3c2f2b69d2a12e33492a66514
+hash: sha256:318a9c581565062a1dbb63f4648ab4806607a0a0d8d3a72d04125af3b120081f

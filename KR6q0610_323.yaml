@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 務州金華山俱胝和尚嗣天龍凡有詰問唯舉一指後有童子因外人問和尚說何法要童子亦竪起一指師聞遂以刃斷其指童子負痛號哭而去師復召之童子回首師却竪起一指童子忽然領悟師將順世謂衆云吾得天龍一指頭禪一生受用不盡言訖示滅
-  hash: sha256:d49b3c895f5571af08d0938a3adca538f6dae46049b652b30c94d804af7084e0
+  text: 務州金華山倶胝和尚嗣天龍凡有詰問唯擧一指後有童子因外人問和尚説何法要童子亦竪起一指師聞遂以刃斷其指童子負痛號哭而去師復召之童子廻首師却竪起一指童子忽然領悟師將順世謂衆云吾得天龍一指頭禪一生受用不盡言訖示滅
+  hash: sha256:2bdae893c9da20ca2b72c0fd8cbfbc2398f807545fa236b3d6aa3795ec3ddddf
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0245-h001}
   - {type: 'tls:div-end', offset: 102, content: '', id: KR6q0610_DZZ_0245}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:8caf88248a2c1b2d24ff0a0215a58778d8f28f7281fcc8f392373b14c135f891
+hash: sha256:493b5528056a131ad761a9576d1e8d82483f054dfddb991836837f53bdf1cc8d

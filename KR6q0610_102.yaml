@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 藥山久不升堂院主白曰大衆久思示誨請和尚為衆說法師令打鐘衆方集師升座良久便下座歸方丈主隨後問云和尚適來許為衆說法云何不垂一言師曰經有經師論有論師爭怪得老僧
-  hash: sha256:8e6e2ad47bece5e869e485ff918d8af02c7c8ddae385c5e5e06f91e7f1320324
+  text: 藥山久不陞堂院主白曰大衆久思示誨請和尚爲衆説法師令打鐘衆方集師陞座良久便下座歸方丈主隨後問云和尚適來許爲衆説法云何不垂一言師曰經有經師論有論師爭怪得老僧
+  hash: sha256:05f4cf0df6b39d00411c5050bec98783995bc4826f29c27fd7f64d6ce2bf7d61
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0079-h001}
   - {type: 'tls:div-end', offset: 76, content: '', id: KR6q0610_DZZ_0079}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:ade4426f1009530cfa0532aa6725803960d68e789a053e2b0591626fdad47e67
+hash: sha256:a631b4331c482bdfdc33a6f8dea3d007753c816226e64ef7bc84ed2b4aaad902

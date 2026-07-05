@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 曹山因僧問眉與目還相識也無師云不相識曰為什麼不相識師云為同在一處曰恁麼即不分也師云眉且不是目曰如何是目師云端的去曰如何是眉師云曹山却疑曰和尚為什麼却疑師云若不疑即端的去也
-  hash: sha256:e9fd6e579a2bdc5fe34437aee6e8f211cba95d1bfbe4dfc9ba96dff3d322adc8
+  text: 曹山因僧問眉與目還相識也無師云不相識曰爲什麼不相識師云爲同在一處曰恁麼即不分也師云眉且不是目曰如何是目師云端的去曰如何是眉師云曹山却疑曰和尚爲什麼却疑師云若不疑即端的去也
+  hash: sha256:da1ee3e141b6bc207ebba6507b9ed4f063e1be0e6075b18354f8a4274af709a1
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0250-h001}
   - {type: 'tls:div-end', offset: 85, content: '', id: KR6q0610_DZZ_0250}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d40dbbf72a0df58ff336b91897c59b52aa5c80cf6a7e3793ac2f4dbde5e97f46
+hash: sha256:93c14dc5f84d384761a46b4254a21f8419f852bdeee5ee0f9daec41e6e50dc3d

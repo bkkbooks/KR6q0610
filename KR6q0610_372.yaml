@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鏡清問僧門外什麼聲僧曰雨滴聲師云衆生顛倒迷己逐物僧云和尚作麼生師曰洎不迷己僧曰洎不迷己意旨如何師曰出身猶可易脫體道應難
-  hash: sha256:f93b4dc9cfbf3d4a3ec427deb8150eacf30ada55e23c02532663f2881f881eb8
+  text: 鏡清問僧門外什麼聲僧曰雨滴聲師云衆生顛倒迷己逐物僧云和尚作麼生師曰洎不迷己僧曰洎不迷己意旨如何師曰出身猶可易脱體道應難
+  hash: sha256:b9d342d62031b73841167c0a833f5c7f24b76339bfe97b3386cd8faa91e2e4a0
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0286-h001}
   - {type: 'tls:div-end', offset: 59, content: '', id: KR6q0610_DZZ_0286}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:1c90162b411f5e6fe6a2d8391124d9c0562616ca893fdfd2d7cc717ee8c3dda5
+hash: sha256:ed12f34ff16fc1ee42b2c3cd01eb3f971d7e86e3ba5d1495d4246243ffcd313b

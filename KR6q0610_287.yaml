@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鄂州潅溪志間禪師嗣臨濟參臨濟濟杻住師曰領也濟托開云且放你一頓師後住院示衆云我見臨濟無言語直至而今飽不飢
-  hash: sha256:e2c9bb8885f78f63c5d15449759d90f1dcafcaef43003a78f2647764999e6cf0
+  text: 鄂州潅溪志閑禪師嗣臨濟參臨濟濟杻住師曰領也濟托開云且放你一頓師後住院示衆云我見臨濟無言語直至而今飽不飢
+  hash: sha256:f4590dcfa39207e95e9bbd6d4a780a780acdcc7320d0015e7a28f313e0e21a97
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0217-h001}
   - {type: 'tls:div-end', offset: 51, content: '', id: KR6q0610_DZZ_0217}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:7ec2c34ea8d5895dd4ba78eed549a67055060f4ec80f698e2fbce942dda07e7d
+hash: sha256:3caeb1375ba7faf0d79a9fcaa6cf52f77390f675f750e38c9dfb03fc852450c5

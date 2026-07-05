@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 南泉示衆云文殊普賢昨夜起佛見法見每人與二十棒貶向二鐵圍山去也趙州出曰和尚棒教誰喫師曰王老師有什麼過州禮拜師下座歸方丈
-  hash: sha256:48fac1264c68e8bf42657af5c25b906cee0e83f0bf1a4165d50d0cd5c19992fc
+  text: 南泉示衆云文殊普賢昨夜起佛見法見毎人與二十棒貶向二鐵圍山去也趙州出曰和尚棒教誰喫師曰王老師有什麼過州禮拜師下座歸方丈
+  hash: sha256:04045eee9f7209b72051582d47717cb8799dba687728cb2f069df68fa9b36912
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0258-h001}
   - {type: 'tls:div-end', offset: 58, content: '', id: KR6q0610_DZZ_0258}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:122f1db97b19e4f05e23f0f253e75af36c4c082312d212d74108f18fa1f61420
+hash: sha256:68e4547c7f931e0f786b1ac979df29169d00b86d44f34fd4f9d2d0cc683bcf98

@@ -15,23 +15,19 @@ markers:
   - {type: 'tls:seg', offset: 15, content: '', id: KR6q0610_DZZ_0077-s005}
   - {type: punctuation, offset: 18, content: 、, id: KR6q0610_DZZ_099-bkkpn4}
   - {type: 'tls:seg', offset: 18, content: '', id: KR6q0610_DZZ_0077-s006}
-  - {type: substitution, offset: 18, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: punctuation, offset: 22, content: 、, id: KR6q0610_DZZ_099-bkkpn5}
   - {type: 'tls:seg', offset: 22, content: '', id: KR6q0610_DZZ_0077-s007}
   - {type: punctuation, offset: 28, content: 、, id: KR6q0610_DZZ_099-bkkpn6}
   - {type: 'tls:seg', offset: 28, content: '', id: KR6q0610_DZZ_0077-s008}
-  - {type: substitution, offset: 28, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: punctuation, offset: 32, content: 、, id: KR6q0610_DZZ_099-bkkpn7}
   - {type: 'tls:seg', offset: 32, content: '', id: KR6q0610_DZZ_0077-s009}
   - {type: punctuation, offset: 38, content: 。, id: KR6q0610_DZZ_099-bkkpn8}
   - {type: 'tls:seg', offset: 38, content: '', id: KR6q0610_DZZ_0077-s010}
   - {type: punctuation, offset: 41, content: 、, id: KR6q0610_DZZ_099-bkkpn9}
   - {type: 'tls:seg', offset: 41, content: '', id: KR6q0610_DZZ_0077-s011}
-  - {type: substitution, offset: 41, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: punctuation, offset: 47, content: 、, id: KR6q0610_DZZ_099-bkkpn10}
   - {type: 'tls:seg', offset: 47, content: '', id: KR6q0610_DZZ_0077-s012}
-  - {type: substitution, offset: 49, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: punctuation, offset: 53, content: 。, id: KR6q0610_DZZ_099-bkkpn11}
   - {type: xml-element, offset: 53, content: '', id: KR6q0610_DZZ_099-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:93d5c16a5d9bf5e73951ea82adee4bc91489f27216082829c705ba0ea6b49478
+hash: sha256:f9f8b76591066f256ebd8ac5cbfa6627a0c459d758566519dbec81624be8eb8f

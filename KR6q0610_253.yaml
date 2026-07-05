@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 潭州神山僧密禪師與洞山渡水洞山曰莫錯下腳師云錯即過水不得也洞山曰不錯底事作麼生師曰共長老過水
-  hash: sha256:22cb8aa4f7b0b6480e678b5e9acf7cca95020fe40a7e231326907273ffd5b605
+  text: 潭州神山僧密禪師與洞山渡水洞山曰莫錯下脚師云錯即過水不得也洞山曰不錯底事作麼生師曰共長老過水
+  hash: sha256:a0791988c73f15b7be92dd54c44a1b47d6c8040a20f44203210468f7a7654eb8
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0198-h001}
   - {type: 'tls:div-end', offset: 46, content: '', id: KR6q0610_DZZ_0198}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a719a28fe689527ce9b8f3dc873f8082951a4a1bcd07fb992ed1b5fd5bd56fc8
+hash: sha256:d0c73022968c5d0f7e9a654c00791cf112e1fa449b263b6dcd51f1d9c6d7d691

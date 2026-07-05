@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 棗樹和尚嗣黃龍機因僧辭乃云若到諸方有人問你老僧此間法道作麼生對僧曰待他問即道師曰何處有無口底佛僧曰祗這也還難師竪起拂子云還見麼曰何處有無眼底佛師云祗這也還難僧繞禪床一匝出師云善能祗對僧喝師曰老僧不識子僧曰要識作麼師敲牀三下
-  hash: sha256:793b38df0bf5f76cd34cec14b9f21878d090e5fc9728e4f97f71a87bd4271fb9
+  text: 棗樹和尚嗣黄龍機因僧辭乃云若到諸方有人問你老僧此間法道作麼生對僧曰待他問即道師曰何處有無口底佛僧曰祗這也還難師竪起拂子云還見麼曰何處有無眼底佛師云祗這也還難僧遶禪床一匝出師云善能祗對僧喝師曰老僧不識子僧曰要識作麼師敲牀三下
+  hash: sha256:a2fb823dc7005e2c4dfdada248222e7f39dd2d9faaccdc9dc372caa276060a54
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0226-h001}
   - {type: 'tls:div-end', offset: 111, content: '', id: KR6q0610_DZZ_0226}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:8bf8e821fe2aff30664e104ae3540fe092011817ce2365327d60871305027847
+hash: sha256:9a020c1a63ef9d60e84ba18799a2498b22da60ebad6b66f9290ad11ce523466f

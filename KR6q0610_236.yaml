@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 溈山問雲岩承長老在藥山弄師子是否岩云是師云長弄麼還有置時也無岩曰要弄即弄要置即置師曰置時師子在什麼處岩曰置也置也
-  hash: sha256:50fa542c9cf2221787b7724b2ea3de008cf7deff55a97b7f8163860408ba68ca
+  text: 潙山問雲岩承長老在藥山弄師子是否岩云是師云長弄麼還有置時也無岩曰要弄即弄要置即置師曰置時師子在什麼處岩曰置也置也
+  hash: sha256:d48d85c74e08dd285581f5481c641ad6026d17ad6d0a55f6731bf58905654cb4
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0184-h001}
   - {type: 'tls:div-end', offset: 56, content: '', id: KR6q0610_DZZ_0184}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:c97b83e08b3e6b056aa1a1d25a1a532825ebbbfe5a7328738a93d8e7a235933f
+hash: sha256:a08e71ebb80802dfc086d89cadbcfd959f9dfb9110c03b6da366a0b404b21ca5

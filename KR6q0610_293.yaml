@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 筠州九峰大覺禪師嗣石霜諱道虔因僧問諸聖間出盡是傳語底人是否師曰是僧曰只如釋迦出來道天上天下唯我獨尊為甚却是傳語底人師曰祗為他指天指地所以喚作傳語底人
-  hash: sha256:fa3e2697b8beb29a542131066b72726c791682765b1d40fc76a6970ca3efbfa1
+  text: 筠州九峰大覺禪師嗣石霜諱道虔因僧問諸聖間出盡是傳語底人是否師曰是僧曰只如釋迦出來道天上天下唯我獨尊爲甚却是傳語底人師曰祗爲他指天指地所以喚作傳語底人
+  hash: sha256:89e54b864758d2970c80bd23dd17ecdf62534f9d5438354984bb7b5c37ea5ed5
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0221-h001}
   - {type: 'tls:div-end', offset: 74, content: '', id: KR6q0610_DZZ_0221}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:459a34a37266b56c5afcd11d074dbf73f1a7bc11f02d59868dcdab63a80ee6bf
+hash: sha256:5bdc8a6647a623e782fe2faf16163ed714e569ebe75da5fcbe752dafbefcabe9

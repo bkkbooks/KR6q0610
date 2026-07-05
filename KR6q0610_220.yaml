@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 升州清涼院大法眼禪師嗣地藏諱文益以玄機一發雜務俱捐結侶擬之湖外既行值天雨忽作溪流暴漲暫寓城西地藏院因參老琛和尚琛問曰上座何往師曰邐迤行腳去琛曰行腳事作麼生師曰不知琛曰不知是最親切師豁然大悟
-  hash: sha256:42c93986deed7e2a44d6fc88bf2e5227a5eb093440105aa9be45283c046c7b11
+  text: 昇州清涼院大法眼禪師嗣地藏諱文益以玄機一發雜務倶捐結侶擬之湖外既行値天雨忽作溪流暴漲暫寓城西地藏院因參老琛和尚琛問曰上座何往師曰邐迤行脚去琛曰行脚事作麼生師曰不知琛曰不知是最親切師豁然大悟
+  hash: sha256:4ebb91b4d659502cb3c32d1ea7474c05ff69baa52cce45c6c89823c4d434094f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0171-h001}
   - {type: 'tls:div-end', offset: 94, content: '', id: KR6q0610_DZZ_0171}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:11da9494caec482d0fcbef26ffea7bffcc230abeb3e49f0c73bfb5c1048d926b
+hash: sha256:8c7b2b5396bf3bd326bec7f1d5e2c5de341eca4253bfa453bdd110082d561391

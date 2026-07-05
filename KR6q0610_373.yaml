@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雪峰示衆云三世諸佛在火焰裡轉大法輪玄沙云火焰為三世諸佛說法三世諸佛立地聽
-  hash: sha256:585ca2ff067427956ae4a5f9cd4f4a78ba3ffbc9fdfbdb088f2bae9769f8b846
+  text: 雪峰示衆云三世諸佛在火焔裡轉大法輪玄沙云火焔爲三世諸佛説法三世諸佛立地聽
+  hash: sha256:c98a6ce87b0847353998dae8fb54d36bcef74c25c8e16f618eff660283926b17
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0287-h001}
   - {type: 'tls:div-end', offset: 36, content: '', id: KR6q0610_DZZ_0287}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:3e3d87612fdcc27cab0161a07e43c1d996fa305acd0c7b89cfa7376b10bc5caa
+hash: sha256:2bbd482e57d77933cd97cbe00227da4b61f79d76b5648bb33c699974771d1cd0

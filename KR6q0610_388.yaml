@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臨濟因入軍營赴齊門首見員僚師指露柱問是凡是聖員僚無語師打露柱云直饒道得也祗是箇木橛便入去正法眼藏下終
-  hash: sha256:5eb2c6e4f5721b434857e00f08957d324b9dbb17dd06bf52c274fa761b8a6a60
+  text: 臨濟因入軍營赴齋門首見員僚師指露柱問是凡是聖員僚無語師打露柱云直饒道得也祗是箇木橛便入去正法眼藏下終
+  hash: sha256:fe1e7f10593dd23d516d9af1a3f00cb0f12de774a03344f36c1fb601bb89e2f0
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0300-h001}
   - {type: 'tls:div-end', offset: 44, content: '', id: KR6q0610_DZZ_0300}
@@ -19,4 +19,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d8537a3715e30c1507f3541b0431f2c03c13503c4c7c2e4df488595b514a84f8
+hash: sha256:014100b692f2ef22530959e8d5dc0bd8ea35aa2c738a9f3f90d5a89124e81971

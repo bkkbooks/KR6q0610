@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 三聖院慧然禪師嗣臨濟道我逢人即出出即不為人興化道我逢人即不出出即便為人
-  hash: sha256:7a87232baba5f64eb1679c9581b035175b454466630464aa7426b0edcd764528
+  text: 三聖院慧然禪師嗣臨濟道我逢人即出出即不爲人興化道我逢人即不出出即便爲人
+  hash: sha256:c24398dede1b89404013cdcc9fd330af9280ef35052e551b4f8b798208de4e8a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0092-h001}
   - {type: 'tls:div-end', offset: 35, content: '', id: KR6q0610_DZZ_0092}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:4e071d0ec01b833499b195a33dbe534afbecc30f4c62ff3ee5410dd51eb45d0d
+hash: sha256:b16c3ef23ecb5772d4243279958b59ac5e944a5dab0fe0e8849b46119b1239de

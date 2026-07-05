@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 曹溪山大鑑禪師嗣大滿因僧問黃梅意旨何人得師曰會佛法人得僧曰和尚還得否師曰我不得僧曰和尚為甚不得師曰我不會佛法
-  hash: sha256:3a61bb3594e5d856b7a6ebddf5d8218daceb3d9267599a4a95d7ef7e5b277b64
+  text: 曹溪山大鑑禪師嗣大滿因僧問黄梅意旨何人得師曰會佛法人得僧曰和尚還得否師曰我不得僧曰和尚爲甚不得師曰我不會佛法
+  hash: sha256:b4324d15f4755a55a304e7f73c7703628e9798f0012e2b1a88bff44e25a2528c
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0059-h001}
   - {type: 'tls:div-end', offset: 54, content: '', id: KR6q0610_DZZ_0059}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a888922feacef234fb14a05d5d079e0d38dcf2e9a94a043b6b9228fa093ae1a5
+hash: sha256:b4bf5f07ba645f514a6487692c2bd69b00fad6bdc83535a2e3951f36a1d2b2f8

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洞山因僧問時節恁麼熱向甚處回避師曰向寒熱不到處回避僧曰作麼生是寒熱不到處師曰寒時寒殺闍梨熱時熱殺闍梨
-  hash: sha256:c0b91c06a8d6610b6433237daf33a2302027a64c5654cca213a9f916a184afdd
+  text: 洞山因僧問時節恁麼熱向甚處廻避師曰向寒熱不到處廻避僧曰作麼生是寒熱不到處師曰寒時寒殺闍梨熱時熱殺闍梨
+  hash: sha256:38a01a09aaf9060ec7a917092699b2e85b6959b10622a2be861e311a2d1087c4
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0225-h001}
   - {type: 'tls:div-end', offset: 50, content: '', id: KR6q0610_DZZ_0225}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a2b05d26826df4d9b4741c52597e8ca81fa84f66561b08ccb2eda945c2808ebf
+hash: sha256:e542e3cbbbe06d9c4e5669375c518e3a46548423217dce0321c974317c80e3d5

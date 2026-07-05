@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洞山悟本大師曾問雲岩和尚百年後忽有人問還邈得師真如何祗對岩曰但向伊道只這是師良久岩曰承當這箇事大須審細後因供養雲岩真次有僧問先師曰只這是莫便是否師曰是僧云意旨如何師曰當時幾錯會先師語僧曰未審先師還知有也無師云若不知有爭解恁麼道若知有爭肯恁麼道
-  hash: sha256:96c2be4a0b52934c6164c2ed6d1f8ec60a49338c55a84b8ea5088a21a90bb931
+  text: 洞山悟本大師曾問雲岩和尚百年後忽有人問還邈得師眞如何祗對岩曰但向伊道只這是師良久岩曰承當這箇事大須審細後因供養雲岩眞次有僧問先師曰只這是莫便是否師曰是僧云意旨如何師曰當時幾錯會先師語僧曰未審先師還知有也無師云若不知有爭解恁麼道若知有爭肯恁麼道
+  hash: sha256:778db076d927e44f77117df50b25b922879badb6e434da4ba1b89108e59cae31
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0228-h001}
   - {type: 'tls:div-end', offset: 121, content: '', id: KR6q0610_DZZ_0228}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:f722c25ba6764232f1c744812e64546962a47fd88bd2059ac433f2ac132920d5
+hash: sha256:d52b50dc499e766ecd93d6331e6463bb78b1ca0317f35d9063dcf507e8bd60af

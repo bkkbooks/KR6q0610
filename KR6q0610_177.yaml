@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 趙州曰老僧答話去也有解問底致將一問來時有僧出禮拜師云比來拋磚引玉却引得箇墼子下座後法眼舉問覺鐵觜此意如何覺曰與和尚舉箇喻如國家拜將相似問誰人去得有一人曰某去得答曰汝去不得法眼云我會也
-  hash: sha256:4e2eeba4d8a63293515c35fca846cb1e5790ac522e416fcb3bcf2a156b72df3a
+  text: 趙州曰老僧答話去也有解問底致將一問來時有僧出禮拜師云比來抛磚引玉却引得箇墼子下座後法眼擧問覺鐵觜此意如何覺曰與和尚擧箇喩如國家拜將相似問誰人去得有一人曰某去得答曰汝去不得法眼云我會也
+  hash: sha256:6ebf0d4a015e4946341f9fec626f86a341b673e69fdb3eca72f82beebdfcf6d4
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0135-h001}
   - {type: 'tls:div-end', offset: 91, content: '', id: KR6q0610_DZZ_0135}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:1979e550f8b938384ff31ba487f163c7eb2b78c59270901abb44371e307c8f83
+hash: sha256:15faf15183fe4734bbf624931d66c3817f267c386f7d03d94972ac1566ffe617

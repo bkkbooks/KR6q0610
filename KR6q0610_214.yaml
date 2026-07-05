@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雲門因僧問生死到來如何回避師曰在什麼處
-  hash: sha256:318a743b8a5b57a611775e83c54e5cf67797042de4bba8c04c3874071324542e
+  text: 雲門因僧問生死到來如何廻避師曰在什麼處
+  hash: sha256:caac8bd097bb7ff1fa1d2072059b8ff74e601fc01331c454249b0a5ecf81c35b
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0166-h001}
   - {type: 'tls:div-end', offset: 19, content: '', id: KR6q0610_DZZ_0166}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:578f83f76c59c101e35c63e5d59c9ab3b25bc1b6ba4723f7ac83307ebdab1474
+hash: sha256:6900dbd659adc6c47ebef0305be46073e9116eb51383075cb31a139ff384b74f

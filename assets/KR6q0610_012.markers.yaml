@@ -26,7 +26,6 @@ markers:
   - {type: 'tls:seg', offset: 42, content: '', id: KR6q0610_DZZ_0008-s011}
   - {type: punctuation, offset: 47, content: 、, id: KR6q0610_DZZ_012-bkkpn9}
   - {type: 'tls:seg', offset: 47, content: '', id: KR6q0610_DZZ_0008-s012}
-  - {type: substitution, offset: 48, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: punctuation, offset: 49, content: 、, id: KR6q0610_DZZ_012-bkkpn10}
   - {type: 'tls:seg', offset: 49, content: '', id: KR6q0610_DZZ_0008-s013}
   - {type: punctuation, offset: 55, content: 。, id: KR6q0610_DZZ_012-bkkpn11}
@@ -73,10 +72,8 @@ markers:
   - {type: 'tls:seg', offset: 133, content: '', id: KR6q0610_DZZ_0008-s034}
   - {type: punctuation, offset: 138, content: 、, id: KR6q0610_DZZ_012-bkkpn32}
   - {type: 'tls:seg', offset: 138, content: '', id: KR6q0610_DZZ_0008-s035}
-  - {type: substitution, offset: 139, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 143, content: 、, id: KR6q0610_DZZ_012-bkkpn33}
   - {type: 'tls:seg', offset: 143, content: '', id: KR6q0610_DZZ_0008-s036}
-  - {type: substitution, offset: 143, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 147, content: 。, id: KR6q0610_DZZ_012-bkkpn34}
   - {type: 'tls:seg', offset: 147, content: '', id: KR6q0610_DZZ_0008-s037}
   - {type: punctuation, offset: 151, content: 、, id: KR6q0610_DZZ_012-bkkpn35}
@@ -104,4 +101,4 @@ markers:
   - {type: punctuation, offset: 195, content: 。, id: KR6q0610_DZZ_012-bkkpn46}
   - {type: xml-element, offset: 195, content: '', id: KR6q0610_DZZ_012-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:4c16c7d491c174ccd207fe4b3122f188ee5d49772641773f92c8a488014ccab5
+hash: sha256:678a75d499cb4d43b49d2f56e742f82d1beba7de956f1531719984b5bfbf5be4

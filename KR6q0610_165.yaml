@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 曹山本寂禪師問德上座云佛真法身猶若虛空應物現形如水中月作麼生說箇應底道理德云如驢覷井師曰道即太煞道只道得八九成德曰和尚又如何師曰如井覷驢
-  hash: sha256:2b1aae63253e6484213b195aac75d35a5b2d5879ade259cea1f01e916960bb63
+  text: 曹山本寂禪師問徳上座云佛眞法身猶若虚空應物現形如水中月作麼生説箇應底道理徳云如驢覰井師曰道即太煞道只道得八九成徳曰和尚又如何師曰如井覰驢
+  hash: sha256:5bbaf0c19617084f3a55ad415301b5554b35055ce3ad32ab5a780450d8387028
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0125-h001}
   - {type: 'tls:div-end', offset: 68, content: '', id: KR6q0610_DZZ_0125}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:8b5db8e9a4d6ccd4920501b15515efe6a5a72d245d88b57e5aae8b51c4984fc3
+hash: sha256:51f07382e167fd4d202b75a97954059ce5f3798d7eef8d9cd41a742a1062cd82

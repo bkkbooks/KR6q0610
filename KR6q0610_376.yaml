@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 道吾與漸源至一家弔慰次源撫棺櫬問師曰生耶死耶師曰生也不道死也不道源曰為什麼不道師云不道不道漸源罔測後來在一處聞誦觀音經應以比丘身得度者即現比丘身而為說法忽然大悟
-  hash: sha256:5f2a9817df7ea110a58bdfc0285e0cd0bb1003e6593d64c544f3ae43eae5ea79
+  text: 道吾與漸源至一家弔慰次源撫棺櫬問師曰生耶死耶師曰生也不道死也不道源曰爲什麼不道師云不道不道漸源罔測後來在一處聞誦觀音經應以比丘身得度者即現比丘身而爲説法忽然大悟
+  hash: sha256:a92d6e1e6b20eb397e1faaf5b7de8bc166f2b61e0c7175b1cdb5064ab737eb4f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0289-h001}
   - {type: 'tls:div-end', offset: 80, content: '', id: KR6q0610_DZZ_0289}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:31e7ab4fdd3bf3fd26c7ed6431b3588a5379125a4a38288606e7d9e8e9348eba
+hash: sha256:01f7fa7713c37a9b32ea66bf237ade8b7d821227526fe414fe888e19774aff20

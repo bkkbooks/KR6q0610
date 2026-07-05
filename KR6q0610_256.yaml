@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臺州瑞岩山師彥禪師問夾山與麼即易不與麼即難與麼與麼即惺惺不與麼不與麼即居空界與麼不與麼請師速道山曰老僧謾闍梨去也師喝云這老和尚而今是什麼時節便出去後有僧舉似岩頭頭曰苦哉將我一枝佛法與麼流將去正法眼藏中終
-  hash: sha256:6ff176e218f5b09e784436d253ad6ff4c95177fc63f25a64fdb35acffa4c450e
+  text: 臺州瑞岩山師彦禪師問夾山與麼即易不與麼即難與麼與麼即惺惺不與麼不與麼即居空界與麼不與麼請師速道山曰老僧謾闍梨去也師喝云這老和尚而今是什麼時節便出去後有僧擧似岩頭頭曰苦哉將我一枝佛法與麼流將去正法眼藏中終
+  hash: sha256:9f900698bd2d42bf1de28167e4baaf28b34d6f9a2fd701f1dcff21beb36cb3be
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0200-h001}
   - {type: 'tls:div-end', offset: 95, content: '', id: KR6q0610_DZZ_0200}
@@ -19,4 +19,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:89ef61da0b9657e4fe4cb9735099799708992bbaace74149f334d5aca3ab0dd3
+hash: sha256:63f61ebaef7564ad918fc3e7b2042fa414190600e11ede74099b4bc901decaf6

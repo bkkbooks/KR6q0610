@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 長慶有時云寧說阿羅漢有三毒不說如來有二種語不道如來無語只是無二種語保福曰作麼生是如來語師曰聾人爭得聞保福曰情知汝向第二頭道師曰作麼生是如來語保福云喫茶去
-  hash: sha256:78c089ca2f6403b2b2a8eb4057a4e936b2125a65222de6898481e5f80a65abaf
+  text: 長慶有時云寧説阿羅漢有三毒不説如來有二種語不道如來無語只是無二種語保福曰作麼生是如來語師曰聾人爭得聞保福曰情知汝向第二頭道師曰作麼生是如來語保福云喫茶去
+  hash: sha256:309e3e96affd9af4fbeb10a9e934d34a2537287c5ff0e23dfc775cccecc2a8e1
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0298-h001}
   - {type: 'tls:div-end', offset: 76, content: '', id: KR6q0610_DZZ_0298}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d5505022d05d0268525d4b727614f7a64a09fa5a0205a5de96fa34a0ab933469
+hash: sha256:010f40c14cf5b1fb75b9a179a2319b0dde6c9ba7c1f841268a7a9d908d9b37d1

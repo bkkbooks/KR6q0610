@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 仰山住東平時溈山附書并鏡一面至師升堂受書乃提起鏡子示衆云大衆溈山將鏡來而今且道是溈山鏡東平鏡若道是東平鏡又是溈山寄來若道是溈山鏡又在東平手裡道得即存取道不得則打破去也如是三舉衆皆無對師乃撲破
-  hash: sha256:8a20337e4e28124119fb97f3f131637deab2aee01e0e775f2fb58e4134ac9c35
+  text: 仰山住東平時潙山附書并鏡一面至師陞堂受書乃提起鏡子示衆云大衆潙山將鏡來而今且道是潙山鏡東平鏡若道是東平鏡又是潙山寄來若道是潙山鏡又在東平手裡道得即存取道不得則打破去也如是三擧衆皆無對師乃撲破
+  hash: sha256:6b2032a6923afee6d629bf1b9747a8d2d74e1dea79f28139b4da208519ca5386
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0219-h001}
   - {type: 'tls:div-end', offset: 95, content: '', id: KR6q0610_DZZ_0219}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:1d864a30fd8ea221e0e120af90e38532500c4d0abcdae4fb3465c72387790fb5
+hash: sha256:2553617331529d5d2fc2a3bdcae6bd54e04c9648bc7eb1f9817073fec3eca670

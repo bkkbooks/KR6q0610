@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 黃蘗示衆云諸方老宿盡在我拄杖頭上僧禮拜後到大樹處舉前話樹曰黃蘗與麼還曾見諸方也未僧回舉蘗蘗云我者話已遍天下也琅瑘覺曰大樹恁麼太似有眼如盲黃蘗一條拄杖天下人咬嚼不碎
-  hash: sha256:94d1ef477db7a61162d61bdee3e08c6b49338933c2be507e78fdb2c12c212410
+  text: 黄蘗示衆云諸方老宿盡在我拄杖頭上僧禮拜後到大樹處擧前話樹曰黄蘗與麼還曾見諸方也未僧廻擧蘗蘗云我者話已遍天下也瑯瑘覺曰大樹恁麼太似有眼如盲黄蘗一條拄杖天下人咬嚼不碎
+  hash: sha256:97be8a9278aea0c8559be3ce8d7a081d17b97974c212e8d2c5cfb6053deb3200
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0091-h001}
   - {type: 'tls:div-end', offset: 81, content: '', id: KR6q0610_DZZ_0091}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:1e45ae8e48e80667f857ac69abaa5b07e4daa1223d9f3bb414013394c3c0aaeb
+hash: sha256:594143265625c448fc81aa118200b6a4f57e4ef473608e8230da92fba5f800dd

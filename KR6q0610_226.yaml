@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雪峰曰飯籮邊坐地餓死人無數海水邊坐地渴殺人無數玄沙云飯籮裏坐餓死人無數海水沒頭渴殺人無數雲門曰通身是飯通身是水
-  hash: sha256:94fa1e8ed35142b794e72da69ab2cb2a05ec2f6f1e25233ff2a005aa9c34ab63
+  text: 雪峰曰飯籮邊坐地餓死人無數海水邊坐地渇殺人無數玄沙云飯籮裏坐餓死人無數海水沒頭渇殺人無數雲門曰通身是飯通身是水
+  hash: sha256:465633eaf44f5ea92c8b2ec8d013a918e624b6553871facde3b8ff7e1c32588f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0176-h001}
   - {type: 'tls:div-end', offset: 55, content: '', id: KR6q0610_DZZ_0176}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a906c4121013eb81f466689bbe4e5fcfd80e2762004a91cef151c7a27e89062e
+hash: sha256:cd67b2cc0890f860fdb1b9d109306ae9ace143bd5c97eb28575fff96ae49b1c1

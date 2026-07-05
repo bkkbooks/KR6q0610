@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 襄州王敬初常侍一日治事次京兆米和尚至侍乃舉筆示之米曰還判得虛空麼侍乃擲下筆入宅更不復請米和尚致疑明日憑華嚴置茶筵次設問昨日米和尚有何言句便不得相見侍曰師子咬人韓獹逐塊米才聞乃遽出朗笑曰我會也我會也侍曰會即不無你試道看米曰請常侍舉侍乃竪起一隻塊米曰這野狐精侍云這漢徹去也
-  hash: sha256:29fe198d6510373188ee7e879da6d384a4be36182920b8dfa1fad9435c639300
+  text: 襄州王敬初常侍一日治事次京兆米和尚至侍乃擧筆示之米曰還判得虚空麼侍乃擲下筆入宅更不復請米和尚致疑明日憑華嚴置茶筵次設問昨日米和尚有何言句便不得相見侍曰師子齩人韓獹逐塊米纔聞乃遽出朗笑曰我會也我會也侍曰會即不無你試道看米曰請常侍擧侍乃竪起一隻塊米曰這野狐精侍云這漢徹去也
+  hash: sha256:7a402795cc8b628b7dbdd0e3cc085887ac5e2e7c51e9fc52eb9570af6b0f2c9f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0263-h001}
   - {type: 'tls:div-end', offset: 134, content: '', id: KR6q0610_DZZ_0263}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:ecf233e56a0aeaad03ee93ee9007b62be4323cd575030f35e3a00cf8df4bdf60
+hash: sha256:dd0cf77aec8ce1895f0369aa3ad89241553ba4216fe151cf4fdeeee8f8ea5be9

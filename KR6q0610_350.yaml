@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洪州百丈惟政禪師嗣馬祖一日謂衆云汝等與我開田了我為汝說大義僧開田了請和尚說大義師乃展開兩手
-  hash: sha256:b95cdb155fa132cb673aa6ee9ac2f6effe89b497be25e9e38e708ddf175f476a
+  text: 洪州百丈惟政禪師嗣馬祖一日謂衆云汝等與我開田了我爲汝説大義僧開田了請和尚説大義師乃展開兩手
+  hash: sha256:468552b2739553d1e526bb804ad7526381d451e5f0a6c72a452aef1b155e99bf
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0268-h001}
   - {type: 'tls:div-end', offset: 45, content: '', id: KR6q0610_DZZ_0268}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d68f74abb055fdd21b20893c72b36facf3f0a98cd85615ef9cb859e1e3e93eba
+hash: sha256:b473474cd76023a36cd46159d5cef74dd9edc7ae0d00e85ad23b48529bdd9085

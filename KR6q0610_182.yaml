@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 仰山問陸郎中承聞郎中看經得悟是否郎中曰是弟子看涅槃經道不斷煩惱而入涅槃師竪拂子云只如這箇作麼生入郎中曰入之一字也不用得師曰入之一字不為郎中郎中便起去
-  hash: sha256:3b509ea3d81951d128aadad42655a50b9cecdb5c27f5e21982212f0a991e7217
+  text: 仰山問陸郎中承聞郎中看經得悟是否郎中曰是弟子看涅槃經道不斷煩惱而入涅槃師竪拂子云只如這箇作麼生入郎中曰入之一字也不用得師曰入之一字不爲郎中郎中便起去
+  hash: sha256:c6cec480f8a9a357307359c34f2310d74f80af45c749456a9f121b125be50e13
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0139-h001}
   - {type: 'tls:div-end', offset: 74, content: '', id: KR6q0610_DZZ_0139}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d31016f2c44c1618bf5f5ddf68360d1758f8df2c83881dcb406f2f92eac7aec4
+hash: sha256:16e733b90f698c155bdbd2a3cfed83a71e933af05dec128d0d5965838ef1713a

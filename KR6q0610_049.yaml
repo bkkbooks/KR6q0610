@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 朗州德山德海禪師嗣保福因僧問靈山一會何人得聞師曰闍梨得聞僧云未審靈山說箇什麼師曰即闍梨會
-  hash: sha256:e60b228840d987ec7cd56fcd2cbe5e6562bf5a3ef1796d9f05658b8e5a5f6134
+  text: 朗州徳山徳海禪師嗣保福因僧問靈山一會何人得聞師曰闍梨得聞僧云未審靈山説箇什麼師曰即闍梨會
+  hash: sha256:94bfb77310b36b9685a4945fb97064aaf1046e4091c82ab0450cde3e8c3da0e6
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0036-h001}
   - {type: 'tls:div-end', offset: 44, content: '', id: KR6q0610_DZZ_0036}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:cef6091ac107eb2b9c9f97b5bbf1f8c3c9994ef34bf81d5c1acaf6f6cb0ba126
+hash: sha256:636964da43a9ec7a1948283bc9909fe176187d380a59460af438cb840dc89343

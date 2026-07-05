@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 金峰志禪師因僧侍次乃云舉一則因緣汝第一不得亂會僧云請和尚舉師竪起拂子僧良久師云知道闍梨亂會僧以目視東西師云雪上更加霜
-  hash: sha256:0b714f0a59352aa4cdd96900c02061cd4c28902c43a94b3da7307107f0264735
+  text: 金峰志禪師因僧侍次乃云擧一則因縁汝第一不得亂會僧云請和尚擧師竪起拂子僧良久師云知道闍梨亂會僧以目視東西師云雪上更加霜
+  hash: sha256:3bb5ed9dfaf696be18028f64baea5cd992d0e63b0159b187eeb1477becf6923e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0272-h001}
   - {type: 'tls:div-end', offset: 58, content: '', id: KR6q0610_DZZ_0272}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:74457f468b230d66b9508b86eb85cb1b194a9ff590f5e05c806d07b041c4c2db
+hash: sha256:0ecf0a4121bcbf26832498f2fc371274ddb7f2bf4a091ab59114e52f4c57efed

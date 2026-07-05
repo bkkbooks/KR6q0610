@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鎮州普化和尚嗣盤山居常入市振鈴鐸云明頭來明頭打暗頭來暗頭打四方八面來旋風打虛空來連架打一日臨濟令僧捉住云或遇不明不暗來時如何師拓開云來日大悲院裡有齊僧回舉似濟濟云我從來疑著這漢
-  hash: sha256:cf2aa20d695d1ca88ec1d6abb556758bb5d233186f1d6b2992e47e47c952f136
+  text: 鎭州普化和尚嗣盤山居常入市振鈴鐸云明頭來明頭打暗頭來暗頭打四方八面來旋風打虚空來連架打一日臨濟令僧捉住云或遇不明不暗來時如何師拓開云來日大悲院裡有齋僧廻擧似濟濟云我從來疑著這漢
+  hash: sha256:0583e5e37f9833aa57858531e567b1b0b468e90a7857ea02ac805ed784c1b1e5
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0022-h001}
   - {type: 'tls:div-end', offset: 88, content: '', id: KR6q0610_DZZ_0022}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:76a8544ab03e884b02a22b2cf100083112b87c33716e098b1eba7859a73d9630
+hash: sha256:295edf2f7bf3a8048139ea6fd86a3c197b219d2591cefee4055b8651637a8873

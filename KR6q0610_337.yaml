@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雲門示衆云聞聲悟道見色明心作麼生是聞聲悟道見色明心舉手云觀世音菩薩將錢來買胡餅放下手云元來是饅頭
-  hash: sha256:82248b7c08d0ebc58073f9d47a01860cc4e80ed0d3a45971fab4a448ce413103
+  text: 雲門示衆云聞聲悟道見色明心作麼生是聞聲悟道見色明心擧手云觀世音菩薩將錢來買胡餅放下手云元來是饅頭
+  hash: sha256:8706ed085309f394544ca8279a4ca4d8e80a6b7460558c1f3e49a33c674b979f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0257-h001}
   - {type: 'tls:div-end', offset: 48, content: '', id: KR6q0610_DZZ_0257}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:2193f2e3c2e782edc33900d8779bc3ea6a8fb4c0f7b04f5149c8910b5494016c
+hash: sha256:5a64ebf23b1253ddb62b605ec263f165daa17256db765babe19b9b20f5e7cf59

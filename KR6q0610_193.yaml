@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洞山悟本大師參雲岩問無情說法什麼人得聞岩曰無情說法無情得聞師曰和尚聞否岩曰我若得聞汝即不聞吾說法也師云若恁麼即某甲不聞和尚說法也岩曰我說法汝尚不聞何況無情說法也師乃述偈呈雲岩曰也太奇也太奇無情說法不思議若將耳聽聲不現眼處聞聲方得知
-  hash: sha256:859da2d565a63688a00ab48d445b6e6029b320fac0b86da5067098df1ed5d5ff
+  text: 洞山悟本大師參雲岩問無情説法什麼人得聞岩曰無情説法無情得聞師曰和尚聞否岩曰我若得聞汝即不聞吾説法也師云若恁麼即某甲不聞和尚説法也岩曰我説法汝尚不聞何況無情説法也師乃述偈呈雲岩曰也太奇也太奇無情説法不思議若將耳聽聲不現眼處聞聲方得知
+  hash: sha256:c11483fad7c106dd805eeb6f59ebcb69ab0e21338efdeb2e56387d16d4a4e1d2
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0148-h001}
   - {type: 'tls:div-end', offset: 115, content: '', id: KR6q0610_DZZ_0148}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:9284c6249090fb6011321fc0f39fd5e55599cc6dab5837ce014dddbbc3706972
+hash: sha256:ea680973dfda41ef7a7b105548b35c51cdb26358315f99011ccd43d634a05a4f
