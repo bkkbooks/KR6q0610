@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洪州百丈大智禪師嗣馬祖諱懷海再參馬祖祖擧拂子師曰即此用離此用祖掛拂子於舊處師侍立少頃祖云你已後鼓兩片皮如何爲人師取拂子擧起祖曰即此用離此用師掛拂子於舊處祖便喝師後謂黄蘗云我當時被馬祖一喝直得三日耳聾
-  hash: sha256:2e915d508d3761ff8cd3122728eb47ebee62f9c1bc803c984da6209941f2768b
+  text: 洪州百丈大智禪師嗣馬祖諱懷海再參馬祖祖舉拂子師曰即此用離此用祖挂拂子於舊處師侍立少頃祖云你已後鼓兩片皮如何為人師取拂子舉起祖曰即此用離此用師挂拂子於舊處祖便喝師後謂黃蘗云我當時被馬祖一喝直得三日耳聾
+  hash: sha256:47e28524b0cd1be72e53701a10dd2f9077301f1b59243171d34bdd348cc3771e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0054-h001}
   - {type: 'tls:div-end', offset: 99, content: '', id: KR6q0610_DZZ_0054}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:527e2cbb77fc552d904ae007f69e5e0ea6cd81cb8a5b0e557d0d0778d16d2b5b
+hash: sha256:058b8e25aff0e3a112ed7ac133c1178015cd019667df772cf0557e4b2adb96ed

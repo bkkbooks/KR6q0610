@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 世尊一日陞座大衆集定迦葉白槌曰世尊説法竟世尊便下座
-  hash: sha256:13b03d839608ce7bc064d356b8b4da5c98ce9fb90b3d293a81d98cf34b96659c
+  text: 世尊一日升座大衆集定迦葉白槌曰世尊説法竟世尊便下座
+  hash: sha256:dcd9cafe677936040d1f464b193de443b3d078c6cca763cda4396bce205da34c
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0141-h001}
   - {type: 'tls:div-end', offset: 25, content: '', id: KR6q0610_DZZ_0141}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:5fcb50f855d8b38caced38a183ba3e2aea59a43336beb69daee2b9f23b890146
+hash: sha256:29cf401684a3cf21513e60819558edda8e1fbb52714d5acd6142c35dd28023ed

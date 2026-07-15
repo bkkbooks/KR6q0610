@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 福州安國院慧球禪師亦曰臥龍問了院主先師道盡十方世界是箇眞實人體你還見僧堂麼主曰和尚莫眼花師曰先師遷化肉猶煖在
-  hash: sha256:7e812ba1a719f817163d8db398a0b370f54eb9522dcd2d0ff796e1e2ce0850da
+  text: 福州安國院慧球禪師亦曰臥龍問了院主先師道盡十方世界是箇真實人體你還見僧堂麼主曰和尚莫眼花師曰先師遷化肉猶暖在
+  hash: sha256:b9e018ae110a1a6a98c9fd3c87c2e455e07d9e817e2fdc3b6cc9704ca25afcf4
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0131-h001}
   - {type: 'tls:div-end', offset: 54, content: '', id: KR6q0610_DZZ_0131}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:73c2beff20a0c7b23b334101d5dbc4d18b33a4d99a86fea075e477d870adbd18
+hash: sha256:8a7d87e9d9613b7fb26f85c0cdaeaf66a6e5ecd0abeaa246fd0e151fab62296a

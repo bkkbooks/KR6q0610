@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 池州南泉山普願禪師嗣馬祖因至莊偶莊主預備迎奉師云老僧居常出入不與他知何夙排辨至於如是主曰昨夜土地神相報師曰王老師修行無力被鬼神覰見侍者便問既是大善知識爲甚却被鬼神覰見師曰土地前更下一分飯著
-  hash: sha256:6b75880b91ee03522b5be52c6963111b6a7f2d6b3edb9a3e6b215b8ffddf450b
+  text: 池州南泉山普願禪師嗣馬祖因至莊偶莊主預備迎奉師云老僧居常出入不與他知何夙排辨至於如是主曰昨夜土地神相報師曰王老師修行無力被鬼神覷見侍者便問既是大善知識為甚却被鬼神覷見師曰土地前更下一分飯著
+  hash: sha256:0e0836e732368f98527167cde7766a10b126e519f7459ffef635f1ad9cebafdf
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0018-h001}
   - {type: 'tls:div-end', offset: 94, content: '', id: KR6q0610_DZZ_0018}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:7770f79b768fbe661b1336e03ff9de5d5922b7ecd19b36a84c28722de24d16f1
+hash: sha256:c930265f52f06a9965dc7310a8a7d08f6ec44298bdbf9bcc996142e52799f27e

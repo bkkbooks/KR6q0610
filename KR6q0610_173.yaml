@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 高安白水本仁禪師嗣洞山示衆云尋常不欲向聲前句後鼓弄人家男女何故且聲不是聲色不是色僧問如何是聲不是聲師云喚作色得麼僧云如何是色不是色師云喚作聲得麼僧無語師云且道爲汝説答汝話若人辨得許你有箇入處
-  hash: sha256:bbc854063900ab03cf7e20020dc30b62d569433701a810ffbd81882c4370157d
+  text: 高安白水本仁禪師嗣洞山示衆云尋常不欲向聲前句後鼓弄人家男女何故且聲不是聲色不是色僧問如何是聲不是聲師云喚作色得麼僧云如何是色不是色師云喚作聲得麼僧無語師云且道為汝説答汝話若人辨得許你有箇入處
+  hash: sha256:d9d287cc33a8d6b557eebc2331e19ba638f47904e8d194a220295f18d4f37d32
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0132-h001}
   - {type: 'tls:div-end', offset: 95, content: '', id: KR6q0610_DZZ_0132}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:f24d841a447c064de758500143fff29425be56ab8ba032444a67bef79ef123f6
+hash: sha256:ea5e6a7085027ae2f9f5010c10b7d22c9785a55b4be32c72e0ef787f97b1b57c

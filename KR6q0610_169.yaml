@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 百丈禪師因普請鋤地次有一僧擧起鋤頭忽聞鼓鳴乃抛下鋤頭大笑便歸師云俊哉此是觀音入理之門歸院乃喚其僧問適來見什麼道理便與麼僧曰適來肚飢聞鼓聲歸喫飯去師乃大笑
-  hash: sha256:c1ea1b71fb6ca0d7a04aeb139be8536e6334b6b68b6cd73485492c00595161d8
+  text: 百丈禪師因普請鋤地次有一僧舉起鋤頭忽聞鼓鳴乃拋下鋤頭大笑便歸師云俊哉此是觀音入理之門歸院乃喚其僧問適來見什麼道理便與麼僧曰適來肚飢聞鼓聲歸喫飯去師乃大笑
+  hash: sha256:18c45e01e3ddd915b80c21fae5e158819a02464f5093d703d488a22870944733
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0128-h001}
   - {type: 'tls:div-end', offset: 76, content: '', id: KR6q0610_DZZ_0128}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:1ab8791aba4054486536434afb6eb3b43c3050dad11246f0bd88a5e84721e0e8
+hash: sha256:dd6fedf3e47a9f3b97ac352465d4756789fe7458957d71e8716781a51de0ddfd

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 瑯瑘廣照大師嗣汾陽諱慧覺因僧問清淨本然云何忽生山河大地師曰清淨本然云何忽生山河大地
-  hash: sha256:c7ac2a30b2d1a714aa141a7238d4d5d2472bf2d308fd2129ba7d9a2f8c7f9469
+  text: 琅瑘廣照大師嗣汾陽諱慧覺因僧問清淨本然云何忽生山河大地師曰清淨本然云何忽生山河大地
+  hash: sha256:b33bec94cf085a3219cc4be17233f09f3cdc37fca47fcb301a7728113fd61510
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0006-h001}
   - {type: 'tls:div-end', offset: 41, content: '', id: KR6q0610_DZZ_0006}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:0491b9d44de2974b3b7fc9c82cfe6c842461cde930337ae5bb8d3fe473506a2e
+hash: sha256:6ecf2136fbe3d229a46c7748302875753d5999d3dc023d78c49b963fb17fb6cd

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 趙州因僧問狗子還有佛性也無師云有僧曰既有爲什麼却撞入這箇皮袋師云爲他知而故犯有僧問狗子還有佛性也無師曰無僧云一切衆生皆有佛性狗子爲什麼却無師曰爲伊有業識在
-  hash: sha256:894312e272b65a42d0f0368573da15418011b09f22f53b862ada6ef1cdf210fa
+  text: 趙州因僧問狗子還有佛性也無師云有僧曰既有為什麼却撞入這箇皮袋師云為他知而故犯有僧問狗子還有佛性也無師曰無僧云一切衆生皆有佛性狗子為什麼却無師曰為伊有業識在
+  hash: sha256:779c3efeac3973618e9d5211f7a299bc7f7d5a64337aff8ad2d797e1617968e9
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0114-h001}
   - {type: 'tls:div-end', offset: 77, content: '', id: KR6q0610_DZZ_0114}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:557d1cd747b196175823d4fa44a46dec1f572952dfdf614fb7f344cb58589d35
+hash: sha256:bc4b6b6400b0b39c80fc7192cd7545316a8eeda1ffe9b98047ceb9cb0398b48b

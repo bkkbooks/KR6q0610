@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 龐居士問馬祖云不昧本來人請師高著眼祖直下覰士進曰一種沒絃琴唯師彈得妙祖直上覰士乃作禮祖歸方丈士隨後入曰弄巧成拙
-  hash: sha256:029211d79ec1a501a906002a68b2f921e36a7e29185b07befdf666b9998c7430
+  text: 龐居士問馬祖云不昧本來人請師高著眼祖直下覷士進曰一種沒絃琴唯師彈得妙祖直上覷士乃作禮祖歸方丈士隨後入曰弄巧成拙
+  hash: sha256:b9e52066555a4b2f41e11526b153ab4ff60d470a751c86244a02e037e9752160
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0099-h001}
   - {type: 'tls:div-end', offset: 55, content: '', id: KR6q0610_DZZ_0099}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:da16ad02fc0d9ea18b3c232cfb6d118ea395ac23766036ec10f60d8f00777d1e
+hash: sha256:c0eb3b3d4ca6df42b2653ea4c8a67d0bc2dc4157ea2c93ce2d02792aeaa609c2

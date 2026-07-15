@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 百靈和尚嗣馬祖一日路次見龐公乃問昔日南嶽得力句曾擧向人麼公曰曾擧來師云擧向甚人公以手自指曰龐公師曰直是妙徳空生也讃之不及公却問師得力句是誰得知師便戴笠子而去公云善爲道路師一去更不囘首
-  hash: sha256:05c9d621e471a6435b1ddb5fc466ce74f002a0c43462018fe2c4ee2d91a3d40b
+  text: 百靈和尚嗣馬祖一日路次見龐公乃問昔日南嶽得力句曾舉向人麼公曰曾舉來師云舉向甚人公以手自指曰龐公師曰直是妙德空生也讃之不及公却問師得力句是誰得知師便戴笠子而去公云善為道路師一去更不回首
+  hash: sha256:b3864c52bc87f0e2120506c79b6d1b672c92d65d0d97e22710e8644eda5e848f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0153-h001}
   - {type: 'tls:div-end', offset: 91, content: '', id: KR6q0610_DZZ_0153}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:8e17d39592165bb00865dcd293b41d0d87736db0cc16c2acf70109f7c2b15fc6
+hash: sha256:9ac6bb5e127567af099bf26e0c93b290cdc7068a98f60d25c114dce995594da4

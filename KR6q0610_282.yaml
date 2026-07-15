@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 道吾山修一禪師因僧問無神通菩薩爲什麼蹤跡難尋師曰同道者方知僧曰和尚還知麼師曰不知僧云和尚爲什麼不知師曰去汝不會我意
-  hash: sha256:586bea3930474c7b95d02d823806bd0f8273f070d08cc6fd84ca795d54a798a4
+  text: 道吾山修一禪師因僧問無神通菩薩為什麼蹤迹難尋師曰同道者方知僧曰和尚還知麼師曰不知僧云和尚為什麼不知師曰去汝不會我意
+  hash: sha256:954d7f2a06c7768c5673603178cd4b87c9702c3f5bd153345cc98859bda82ed9
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0213-h001}
   - {type: 'tls:div-end', offset: 57, content: '', id: KR6q0610_DZZ_0213}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:70053a6c1783630ec04a7fb965e298eda03e203efee273121800bcd41701e5c5
+hash: sha256:412222b478869c46cd9949371499a905a155df06833d69c0968ed4d46ba0630a

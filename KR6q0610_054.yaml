@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鎭州寶壽第二世嗣寶壽沼和尚開堂三聖推出一僧師便打聖曰汝恁麼爲人非但瞎却這僧眼瞎却鎭州一城人眼去在師擲下拄杖便歸方丈
-  hash: sha256:68ccc7617622b997d2699ebff3b41220fc56027098b5058f81a4441995de90cc
+  text: 鎮州寶壽第二世嗣寶壽沼和尚開堂三聖推出一僧師便打聖曰汝恁麼為人非但瞎却這僧眼瞎却鎮州一城人眼去在師擲下拄杖便歸方丈
+  hash: sha256:ab86d97fec2d6229f90a9e132aeb2446b5e52eef8a3eff204a10c358f11a1d00
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0040-h001}
   - {type: 'tls:div-end', offset: 57, content: '', id: KR6q0610_DZZ_0040}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:f84f30382ec89b9ee9e76cd911d0e5c8bf74e6a64d6afec5256d963421172c89
+hash: sha256:99512291e8446486eef435bd1fd299dfe92d90ff16cc4d58adce9b410863eecf

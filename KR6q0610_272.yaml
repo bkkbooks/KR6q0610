@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 潭州龍牙山居遁禪師初參翠微乃問如何是祖師西來意微云與我過禪板來師纔過微接得便打師云打即任打要且無祖師意師又參問臨濟如何是祖師西來意濟曰與我過蒲團來師取蒲團與臨濟濟接得便打師云打即任打要且無祖師意師住院後有僧曰和尚當時還肯二老宿麼師曰肯則肯要且無祖師意
-  hash: sha256:00532d16c219cf5d56cae091642bb503042d3de1d88d62dd7b8612b6960bd0f9
+  text: 潭州龍牙山居遁禪師初參翠微乃問如何是祖師西來意微云與我過禪板來師才過微接得便打師云打即任打要且無祖師意師又參問臨濟如何是祖師西來意濟曰與我過蒲團來師取蒲團與臨濟濟接得便打師云打即任打要且無祖師意師住院後有僧曰和尚當時還肯二老宿麼師曰肯則肯要且無祖師意
+  hash: sha256:2edc16e6d604f916cbe3eaeaecc68449b8aa4546fa636c10baef4467f8b92af5
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0205-h001}
   - {type: 'tls:div-end', offset: 125, content: '', id: KR6q0610_DZZ_0205}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:861ef3cd524af43275466f3d1e3438212d21cd7a1248b6a83b5fe2cb06860d04
+hash: sha256:dd08bd8bc56d9ba163268ba8a8925b36be443f29604f41362136b64067c9943a

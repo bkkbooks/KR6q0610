@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 筠州洞山悟本大師嗣雲岩諱良价示衆云體得佛向上事方有些子語話分僧便問如何是語話師曰語話時闍梨不聞僧曰和尚還聞否師曰待我不語話時即聞
-  hash: sha256:fe16fc7a92da4a44cb2e339dca774d27b125f7f6032057f0213a99c91d5ad28e
+  text: 筠州洞山悟本大師嗣雲岩諱良價示衆云體得佛向上事方有些子語話分僧便問如何是語話師曰語話時闍梨不聞僧曰和尚還聞否師曰待我不語話時即聞
+  hash: sha256:0d6e1caa566ad9de4980a8732aade35ace818b3656cf1000a682542d6861ea86
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0012-h001}
   - {type: 'tls:div-end', offset: 64, content: '', id: KR6q0610_DZZ_0012}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:3f5e788ee19152804c7736dfed2d38cda6a6fd7c0876e34380ebb57a3e565215
+hash: sha256:bfbb8cbe3a693b069f10dc1ad199d82b74b3d3a43296871b2fc17c2a7fb7b0f1

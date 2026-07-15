@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 百丈和尚因雲岩問和尚毎日區區爲阿誰師曰有一人要岩曰因什麼不教伊自作師曰他無家活
-  hash: sha256:334934844366d83a732f2832d8c77e9be526f9bdcb4b00aa2574a06bc3d21ba4
+  text: 百丈和尚因雲岩問和尚每日區區為阿誰師曰有一人要岩曰因什麼不教伊自作師曰他無家活
+  hash: sha256:bcbde712e90b7ba8267d667f8ed2e6a8424a4a8effcadc141c48b132cf347514
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0267-h001}
   - {type: 'tls:div-end', offset: 39, content: '', id: KR6q0610_DZZ_0267}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:6b3b1d39c6511f9f9ea55637c45c40c563da9b0a3f22c66f37c2e946b27a82a9
+hash: sha256:b589249319ac652f6b816e18c55b5d84d023b0efd4d9a13ee7c8d0689e570929

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 撫州石鞏慧藏禪師嗣馬祖問西堂汝還解捉得虚空麼西堂曰解捉得師曰汝作麼生捉西堂以手撮虚空師曰你不解捉虚空西堂云師兄作麼生捉師把西堂鼻孔拽西堂作忍痛聲云大殺人拽人鼻孔直得脱去師曰直得恁麼把捉始得
-  hash: sha256:902469ab8d0855f010a57dd61d57f140efc8ef54aa780e30452ed087d5897fd7
+  text: 撫州石鞏慧藏禪師嗣馬祖問西堂汝還解捉得虛空麼西堂曰解捉得師曰汝作麼生捉西堂以手撮虛空師曰你不解捉虛空西堂云師兄作麼生捉師把西堂鼻孔拽西堂作忍痛聲云大殺人拽人鼻孔直得脫去師曰直得恁麼把捉始得
+  hash: sha256:c7f5fb6fecaa12bfa27e7374a6044a869b44b276471abd29c889acf011ac3e01
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0248-h001}
   - {type: 'tls:div-end', offset: 94, content: '', id: KR6q0610_DZZ_0248}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:e6ec5006ce5c3af8854b5cf7d2e4e5ca338595731fc2a1f180595439a13993c3
+hash: sha256:24ffa4e2213f1e88a85f76f5428b6f5005233d53a7d253aa96bc7a80f15468dc

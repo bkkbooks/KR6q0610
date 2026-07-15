@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臨濟問院主甚處來主曰州中糶黄米來師曰糶得盡也主曰糶得盡師以拄杖一劃云還糶得這箇麼主便喝師便打次典座至師擧前話座曰院主不會和尚意師云汝又作麼生座便禮拜師亦打
-  hash: sha256:13347f67238e7fa7723c3ad28b6aef32e5049b1c256456cf3f527371f46a25ec
+  text: 臨濟問院主甚處來主曰州中糶黃米來師曰糶得盡也主曰糶得盡師以拄杖一劃云還糶得這箇麼主便喝師便打次典座至師舉前話座曰院主不會和尚意師云汝又作麼生座便禮拜師亦打
+  hash: sha256:1c8439223ae25929770ccf133cb0c50de1a22d7fe7866853804b880da20c9509
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0216-h001}
   - {type: 'tls:div-end', offset: 77, content: '', id: KR6q0610_DZZ_0216}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:004a2f5a506d0cf975c5541519d3feee5f41217ac16cf5cd115731d4c6fe8235
+hash: sha256:bc858eb0d169362df8f1e64abf25f10743f328c839bcf8d2b85af7fda6193a01

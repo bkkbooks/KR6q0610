@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 幽州盤山凝寂大師嗣馬祖諱寶積嘗因於市肆行見一客人買猪肉語屠家曰精底割一片來屠家放下刀子叉手云長吏那箇是不精底師於言下有省
-  hash: sha256:a0b35293ad9ddad17defa65e313906cf1ddb49b9255f35140932341c2253908a
+  text: 幽州盤山凝寂大師嗣馬祖諱寶積嘗因於市肆行見一客人買豬肉語屠家曰精底割一片來屠家放下刀子叉手云長吏那箇是不精底師於言下有省
+  hash: sha256:8936b109211079792fa152026bc288cda0c0d1ec9e1a89438943af16b7eb6771
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0021-h001}
   - {type: 'tls:div-end', offset: 60, content: '', id: KR6q0610_DZZ_0021}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:74bc1da7b4226f8e60c6aadae464f457c25b0a6246062d4b5dee43422abb4298
+hash: sha256:8faef6e62e7219ba8cd68d4cd6ad98397e33e9fa25e2d8a42900a02ca73e827b

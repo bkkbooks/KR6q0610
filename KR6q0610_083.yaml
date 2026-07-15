@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 漳州保福院清豁禪師嗣睡龍參睡龍一日問豁闍梨見何尊宿來還悟也未曰清豁嘗訪大章得箇信處睡龍於是上堂集大衆召曰清豁闍梨出對衆燒香説悟處老僧與汝證明師拈香曰香已拈悟即不悟睡龍大悦而許之
-  hash: sha256:000fa52dd56a16301e5b36531fc5a7c7d9a4d7b8eaf2ffd9d042ae14395a03c1
+  text: 漳州保福院清豁禪師嗣睡龍參睡龍一日問豁闍梨見何尊宿來還悟也未曰清豁嘗訪大章得箇信處睡龍於是上堂集大衆召曰清豁闍梨出對衆燒香説悟處老僧與汝證明師拈香曰香已拈悟即不悟睡龍大悅而許之
+  hash: sha256:79f9b9f9c2b27e8f86e83f5fba674113bb5d467d62fd8d4d99ed3a8308718fb1
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0063-h001}
   - {type: 'tls:div-end', offset: 88, content: '', id: KR6q0610_DZZ_0063}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:19812f29a6e70481cb7311b19657bab670a065215f193ab3bad7072bd11580fc
+hash: sha256:f6c0537bdd63041507acdc4dcba0a0eb423f67a1f12263a36b7432441c21c409

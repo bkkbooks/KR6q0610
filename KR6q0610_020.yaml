@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 潭州大潙山大圓禪師嗣百丈諱靈祐因仰山問百千萬境一時來時作麼生師云青不是黄長不是短諸法各住自位非干我事仰乃作禮
-  hash: sha256:d09c91d22f5ce9832f72d9af8ad5c67f1d805d471a732c029f8a4abcf032c3c2
+  text: 潭州大溈山大圓禪師嗣百丈諱靈祐因仰山問百千萬境一時來時作麼生師云青不是黃長不是短諸法各住自位非干我事仰乃作禮
+  hash: sha256:2b659d8bb1d043d0e99a0ccf919d4e368257e0bf8d749587b67849f08b05ac1e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0014-h001}
   - {type: 'tls:div-end', offset: 54, content: '', id: KR6q0610_DZZ_0014}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:432ef684c9e990a704f949acd83759bb518d729e70acb5859dada947fb884882
+hash: sha256:a48e9ce7ecb028d454565f64b68ba6d3d507bbab3055650186c3ea98fcea9bb3

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 舒州投子山慈濟大師嗣翠微諱大同因僧問月未圓時如何師曰呑却兩三箇僧曰圓後如何師曰吐却七八箇
-  hash: sha256:47b8a7c2e51d59a74f2e4ba96e5167802f074bc8c712bc26fa701d298acefc14
+  text: 舒州投子山慈濟大師嗣翠微諱大同因僧問月未圓時如何師曰吞却兩三箇僧曰圓後如何師曰吐却七八箇
+  hash: sha256:b67c1a230609c4c0a47db649586494863aee557e2fee2640786bf33c8f20b09a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0013-h001}
   - {type: 'tls:div-end', offset: 44, content: '', id: KR6q0610_DZZ_0013}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:6c8024c272a9d882d6cecd7b291fdde3f5ffd6e72a2a69e86d9c09c6bcb5f188
+hash: sha256:3f0ee149edc85c105cd3b9be7bbea8f03b8e1b67127a693fca36d19e47c3c37d

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 石霜參道吾問如何是觸目菩提道吾喚沙彌沙彌應諾道吾曰添淨瓶水著道吾却問師汝適來問什麼師乃擧前問道吾便起去師從此有省
-  hash: sha256:b882629aa5a7e7f4d452bf1808b53eb6e450f43c15d22527b20a8306c62c9538
+  text: 石霜參道吾問如何是觸目菩提道吾喚沙彌沙彌應諾道吾曰添淨瓶水著道吾却問師汝適來問什麼師乃舉前問道吾便起去師從此有省
+  hash: sha256:93a8da1a1a1a7a91775bb8edd3089cf9112d74672e290d9fc828a930cc04f189
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0193-h001}
   - {type: 'tls:div-end', offset: 56, content: '', id: KR6q0610_DZZ_0193}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:4d07d412eb1a2eac00f90980bb40cbf511292a15cecd7eea078cbd67c2fd7fb2
+hash: sha256:73254ba996e8e106919107236bf483be51e0cd2af46c46586a24b5e3732fb368

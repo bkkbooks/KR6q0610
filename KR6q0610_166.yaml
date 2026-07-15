@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 侍郎韓愈文公嗣大巓一日白大巓曰弟子軍州事多省要處乞師一句巓良久公罔措時三平義忠禪師爲侍者乃敲禪床三下巓曰作麼生平曰先以定動然後智拔公乃禮謝三平曰和尚門風高峻弟子於侍者邊得箇入處
-  hash: sha256:a9dd2d87c72ee6243ca3730648aa6ae8c64dfb9286e3648a046ff49cb9f03b7f
+  text: 侍郎韓愈文公嗣大巔一日白大巔曰弟子軍州事多省要處乞師一句巔良久公罔措時三平義忠禪師為侍者乃敲禪床三下巔曰作麼生平曰先以定動然後智拔公乃禮謝三平曰和尚門風高峻弟子於侍者邊得箇入處
+  hash: sha256:ac0c99903fbf9d34d3e4e709aeb4f7c3fd479c05954e0364566a0943700cd4db
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0126-h001}
   - {type: 'tls:div-end', offset: 88, content: '', id: KR6q0610_DZZ_0126}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:bd7d6d62c2b0fdda5b764e7ea628e4f3bfe561a71b6427c6d7626e755da22d9b
+hash: sha256:418a32d42bdd61cf7c085c7280c1fca2699aa05c8738e0aa9aef544aa5cd3e71

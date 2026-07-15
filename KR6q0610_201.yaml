@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 福州靈雲志勤禪師嗣大潙因見桃花悟道有頌曰三十年來尋劍客幾囘葉落又抽枝自從一見桃花後直至如今更不疑擧似潙山山云從縁入者永不退失汝善護持玄沙聞云諦當甚諦當敢保老兄猶未徹在
-  hash: sha256:2ef7de9612a51614e39c4f4233adde00cd426470fc396996d4c56bd9e833f9fb
+  text: 福州靈雲志勤禪師嗣大溈因見桃花悟道有頌曰三十年來尋劍客幾回葉落又抽枝自從一見桃花後直至如今更不疑舉似溈山山云從緣入者永不退失汝善護持玄沙聞云諦當甚諦當敢保老兄猶未徹在
+  hash: sha256:4e5f0916ff2d888355ec4122bef0199948d402cdd9129af28a033d00efd6fdb8
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0155-h001}
   - {type: 'tls:div-end', offset: 83, content: '', id: KR6q0610_DZZ_0155}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:860e1e99cf3ce5d1f78f0967fbf2b9a3da6cc692fe25d5e05fa70c3ac34daf56
+hash: sha256:42f4d2b3290033736f725ca415ab9ea99fe186d53a23232f25c46004c70a8a90

@@ -11,6 +11,7 @@ markers:
   - {type: 'tls:seg-start', offset: 8, content: '', id: KR6q0610_DZZ_0012-s003, seg_type: comm, member_ids: [KR6q0610_DZZ_0012-s003, KR6q0610_DZZ_0012-s004]}
   - {type: 'tls:seg', offset: 8, content: '', id: KR6q0610_DZZ_0012-s003}
   - {type: 'tls:seg', offset: 11, content: '', id: KR6q0610_DZZ_0012-s004}
+  - {type: substitution, offset: 13, original: 价, replacement: 價, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16360}}
   - {type: 'tls:seg-end', offset: 14, content: '', id: KR6q0610_DZZ_0012-s004_end, seg_type: comm}
   - {type: 'tls:seg', offset: 14, content: '', id: KR6q0610_DZZ_0012-s005}
   - {type: punctuation, offset: 17, content: 、, id: KR6q0610_DZZ_018-bkkpn4}
@@ -36,4 +37,4 @@ markers:
   - {type: punctuation, offset: 64, content: 。, id: KR6q0610_DZZ_018-bkkpn14}
   - {type: xml-element, offset: 64, content: '', id: KR6q0610_DZZ_018-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:3202a417ab70a8d3658ab90f882c5ab663e707a46f6b7ec1c03e5ba54d009dc2
+hash: sha256:069d4cd35668b31862382dbbc2281c620264fbf5cb7edf2aa843c32676ed9c73

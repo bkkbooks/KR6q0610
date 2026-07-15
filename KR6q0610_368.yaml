@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雪峰因僧問古澗寒泉時如何師曰瞪目不見底僧曰飮者如何師曰不從口入後有僧擧似趙州州曰不可從鼻孔裏入僧却問古澗寒泉時如何州曰苦僧曰飮者如何州曰死師聞之云趙州古佛師從此不答話
-  hash: sha256:eb374aa9b7ec4c9f5b8eeab3988e0701a1fe67bf22e006b8fd69c3225b5ffb90
+  text: 雪峰因僧問古澗寒泉時如何師曰瞪目不見底僧曰飮者如何師曰不從口入後有僧舉似趙州州曰不可從鼻孔裏入僧却問古澗寒泉時如何州曰苦僧曰飮者如何州曰死師聞之云趙州古佛師從此不答話
+  hash: sha256:965cdfb6ebd2dfbede0d98fe6e4809ccf9dafc5e7bf618cc9c541d6211ae23aa
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0283-h001}
   - {type: 'tls:div-end', offset: 83, content: '', id: KR6q0610_DZZ_0283}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:405d0673c3292a983e3970a8ac283961129023866bcb9dd62c02761392e8d7d2
+hash: sha256:ebbc784c4f84f14a46496bb72379e93bf4754577bf9f40ecb4f6b299fbe721bd

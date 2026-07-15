@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 漸源一日在紙帳内坐有僧至撥開帳子曰不審師以目視之良久曰會麼僧云不會師云七佛已前事爲甚麼不會
-  hash: sha256:242e0fb2e4c8afe8a001472196b954dc80bb2dd37d0a7d9c9da63c5d5a648303
+  text: 漸源一日在紙帳內坐有僧至撥開帳子曰不審師以目視之良久曰會麼僧云不會師云七佛已前事為甚麼不會
+  hash: sha256:2526f7b9d451970fb5c61b168202fb2e3b0359e311a348150b3dc61ca9b22f14
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0175-h001}
   - {type: 'tls:div-end', offset: 45, content: '', id: KR6q0610_DZZ_0175}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:ab31f1beebecb8cee26a69b30f6872e1904531edb33fea7da3d2d5eea288a54b
+hash: sha256:8d230102ceedb887d4fba0c034b3a52a9df8ce9a170218493e6bb04c1575aa2d

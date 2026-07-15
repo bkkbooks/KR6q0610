@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 南嶽山大慧禪師因僧問如鏡鑄像像成後光歸何處師曰大徳未出家時相貌向甚處去僧云成後爲甚不鑑照師云雖不鑑照瞞他一點也不得
-  hash: sha256:2fffcc4ff7f50523d34d68324aed188d942242b8f2606f71efdd97c014d12063
+  text: 南嶽山大慧禪師因僧問如鏡鑄像像成後光歸何處師曰大德未出家時相貌向甚處去僧云成後為甚不鑑照師云雖不鑑照瞞他一點也不得
+  hash: sha256:18e489b167eccf737e5c52bdcce94b919e27c76847dd772b9a72c832312c0881
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0116-h001}
   - {type: 'tls:div-end', offset: 57, content: '', id: KR6q0610_DZZ_0116}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:34b2d704e9c163be30e8ff445e56b5f7e2bf40f35f94bc9101153dd5356431db
+hash: sha256:d7be74e67f0ea250f53e3fc7f4cd425988711f5f4b65808fffccde2843bf6379

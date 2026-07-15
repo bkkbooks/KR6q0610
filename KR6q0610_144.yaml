@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 福州玄沙院宗一大師因雪峰云世界闊一丈古鏡闊一丈師指火爐云火爐闊多少峰曰似古鏡闊師曰老漢脚跟未點地在
-  hash: sha256:b88669250376c35ff3125931fb2087d35e340270c00836b68e3242f8493df679
+  text: 福州玄沙院宗一大師因雪峰云世界闊一丈古鏡闊一丈師指火爐云火爐闊多少峰曰似古鏡闊師曰老漢腳跟未點地在
+  hash: sha256:3abd1b5d05e8e7f870efe7156ada82e538213d92445e11a594d2829e797fcd2d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0109-h001}
   - {type: 'tls:div-end', offset: 49, content: '', id: KR6q0610_DZZ_0109}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:463d4717ab3639066eacbaa1e5d72810fe0de6f93d2106753684154dab45c426
+hash: sha256:3ae99bd046ddf9880dec5e517fb7eaf5ec29cb79e5a5519b366621273725b077

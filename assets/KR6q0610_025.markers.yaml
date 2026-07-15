@@ -32,12 +32,15 @@ markers:
   - {type: 'tls:seg', offset: 53, content: '', id: KR6q0610_DZZ_0018-s013}
   - {type: punctuation, offset: 60, content: 、, id: KR6q0610_DZZ_025-bkkpn13}
   - {type: 'tls:seg', offset: 60, content: '', id: KR6q0610_DZZ_0018-s014}
+  - {type: substitution, offset: 63, original: 覰, replacement: 覷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20319}}
   - {type: punctuation, offset: 65, content: 。, id: KR6q0610_DZZ_025-bkkpn14}
   - {type: 'tls:seg', offset: 65, content: '', id: KR6q0610_DZZ_0018-s015}
   - {type: punctuation, offset: 69, content: 、, id: KR6q0610_DZZ_025-bkkpn15}
   - {type: 'tls:seg', offset: 69, content: '', id: KR6q0610_DZZ_0018-s016}
   - {type: punctuation, offset: 75, content: 、, id: KR6q0610_DZZ_025-bkkpn16}
   - {type: 'tls:seg', offset: 75, content: '', id: KR6q0610_DZZ_0018-s017}
+  - {type: substitution, offset: 75, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 81, original: 覰, replacement: 覷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20319}}
   - {type: punctuation, offset: 83, content: 。, id: KR6q0610_DZZ_025-bkkpn17}
   - {type: 'tls:seg', offset: 83, content: '', id: KR6q0610_DZZ_0018-s018}
   - {type: punctuation, offset: 85, content: 、, id: KR6q0610_DZZ_025-bkkpn18}
@@ -45,4 +48,4 @@ markers:
   - {type: punctuation, offset: 94, content: 。, id: KR6q0610_DZZ_025-bkkpn19}
   - {type: xml-element, offset: 94, content: '', id: KR6q0610_DZZ_025-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:d52be39ae2be3c55bbdbae144376d260f438703c4ec1a5d3d01c536701e854fc
+hash: sha256:b88b3216f1710980cabf0670be493c7c0b1a56c952eaadcf3f7c12c912fa6efa

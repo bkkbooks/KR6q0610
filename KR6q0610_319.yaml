@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 郢州大陽明安大師嗣梁山諱警玄因問梁山如何是無相道場梁指觀音曰此是呉處士畫師擬進語梁急索云這箇是有相底那箇是無相底師於言下領悟作禮却依本位立梁云何不道取一句來師曰道即不辭恐難上紙墨梁乃印可
-  hash: sha256:91c9f0b361294c0829e3da08ff9470ec246914641a6c6ff52240daa06c1cb7dc
+  text: 郢州大陽明安大師嗣梁山諱警玄因問梁山如何是無相道場梁指觀音曰此是吳處士畫師擬進語梁急索云這箇是有相底那箇是無相底師於言下領悟作禮却依本位立梁云何不道取一句來師曰道即不辭恐難上紙墨梁乃印可
+  hash: sha256:70b5b8c8955f16197cd66a2bc79f9e036dfaf5bb5e4d0d107d7741952d2e0cb9
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0242-h001}
   - {type: 'tls:div-end', offset: 93, content: '', id: KR6q0610_DZZ_0242}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:f096dc93ef05788b9126285746e344c8fffa6829b1f039513ab9348bcc73c593
+hash: sha256:1ee51168d3f872ff0b18a745c7916c395bbd225236777897afc3653a1d88e997

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 趙州因有婆子施財請師轉大藏經師下禪牀遶一匝云轉藏已畢人囘擧似婆子婆云比來請轉一藏如何和尚只轉半藏
-  hash: sha256:4d4b9d1621d79f109c1be3493f1041508d3b93c22fcf7ca87ebef78f37c307a8
+  text: 趙州因有婆子施財請師轉大藏經師下禪牀繞一匝云轉藏已畢人回舉似婆子婆云比來請轉一藏如何和尚只轉半藏
+  hash: sha256:d59d2fe4f6c16b71a76c00bd51020097f232cda0e6febcf3e23062a969e7f8d9
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0074-h001}
   - {type: 'tls:div-end', offset: 48, content: '', id: KR6q0610_DZZ_0074}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:4b571c3cfffe9f27fa1d51e3cab12562b908f0f79754f33ca93137e9521ef781
+hash: sha256:9d784e6cdf072d5afef4c8301a9d329e2c77d53a21271b5191d0d93a05c4db3f

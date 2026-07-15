@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雪峰山畔有一僧卓庵多年不剃頭自作一柄木杓去溪邊舀水喫時有僧問如何是祖師西來意庵主云溪深杓柄長僧歸擧似雪峰峰曰也甚奇怪雖然如是須是老僧勘過始得峰一日同侍者將剃刀去訪佗纔相見便問道得即不剃汝頭庵主便將水洗頭師便與佗剃却
-  hash: sha256:9fe8dee577db69f6588df31386eb2a2dac5e36325edcf86d23dd6cc57e925922
+  text: 雪峰山畔有一僧卓庵多年不剃頭自作一柄木杓去溪邊舀水喫時有僧問如何是祖師西來意庵主云溪深杓柄長僧歸舉似雪峰峰曰也甚奇怪雖然如是須是老僧勘過始得峰一日同侍者將剃刀去訪他才相見便問道得即不剃汝頭庵主便將水洗頭師便與他剃却
+  hash: sha256:d9368375f94c6828391e497a69d66dfc87a7c8401ed1eb06c279d6f5a259f0d4
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0183-h001}
   - {type: 'tls:div-end', offset: 107, content: '', id: KR6q0610_DZZ_0183}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:f4ebc9f3edc65aaf986a4e77644a4dc2a9e1540b999a0c04af1c0ae1ccdbfba5
+hash: sha256:edbd5129b450127547e2cf246f23c2d7f676697dc2127fefdbbb9ea7533d25a4

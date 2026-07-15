@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鏡清問僧近離甚處曰三峰夏在甚處曰五峰師曰放你三十棒曰某甲過在甚處云爲你出一叢林入一叢林
-  hash: sha256:8447d4574fd07d6828dbeb99a1e9f192090977e761aebbc6a5e298620ac08b96
+  text: 鏡清問僧近離甚處曰三峰夏在甚處曰五峰師曰放你三十棒曰某甲過在甚處云為你出一叢林入一叢林
+  hash: sha256:33c4449dd44427e846bfc2a3cb36cdc4c660ba854df3d56fa28e329317c11730
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0042-h001}
   - {type: 'tls:div-end', offset: 43, content: '', id: KR6q0610_DZZ_0042}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a7f52354eb42761578d32370210b569eb148f90c757c46f42593cbdd30dda047
+hash: sha256:70b0c82c2e9f1d458f2a740f288d4c6a193991aa35af87582fbb513fa142c629

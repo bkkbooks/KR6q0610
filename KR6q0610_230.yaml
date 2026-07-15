@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雲蓋山志安禪師嗣石霜在石霜會時有僧問石霜萬戸倶閉時如何霜云堂中事作麼生僧經半年方始道得云無人接渠霜曰道也太煞道只道得八九成時師聞却禮請石霜爲道霜不道師乃抱霜從方丈後去坐曰和尚若不道須打和尚去霜曰得在師乃禮拜不住霜云無人識渠師於言下大悟
-  hash: sha256:573b09ef02644758f7ff23e0162c4eaae23cad8957c341251d8706cfc999a05d
+  text: 雲蓋山志安禪師嗣石霜在石霜會時有僧問石霜萬戶俱閉時如何霜云堂中事作麼生僧經半年方始道得云無人接渠霜曰道也太煞道只道得八九成時師聞却禮請石霜為道霜不道師乃抱霜從方丈後去坐曰和尚若不道須打和尚去霜曰得在師乃禮拜不住霜云無人識渠師於言下大悟
+  hash: sha256:a5a03a5a0f22dd0be05c438afb697d4a3fca9831c867b4f0c1d87e4fb51f8dd4
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0179-h001}
   - {type: 'tls:div-end', offset: 117, content: '', id: KR6q0610_DZZ_0179}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d57c89debb7c6de54c84d724db8b7649d329d3a834dd72d39ded36310b6fbcd2
+hash: sha256:9da84895b2b961504df8dd449e6f17dce3664d522a34af05d8678417c6d13b27

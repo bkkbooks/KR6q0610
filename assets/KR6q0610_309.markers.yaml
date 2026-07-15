@@ -46,12 +46,15 @@ markers:
   - {type: 'tls:seg', offset: 79, content: '', id: KR6q0610_DZZ_0234-s020}
   - {type: punctuation, offset: 83, content: 。, id: KR6q0610_DZZ_309-bkkpn22}
   - {type: 'tls:seg', offset: 83, content: '', id: KR6q0610_DZZ_0234-s021}
+  - {type: substitution, offset: 84, original: 擧, replacement: 舉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17026}}
   - {type: punctuation, offset: 88, content: 。, id: KR6q0610_DZZ_309-bkkpn23}
   - {type: 'tls:seg', offset: 88, content: '', id: KR6q0610_DZZ_0234-s022}
   - {type: punctuation, offset: 90, content: 、, id: KR6q0610_DZZ_309-bkkpn24}
   - {type: 'tls:seg', offset: 90, content: '', id: KR6q0610_DZZ_0234-s023}
+  - {type: substitution, offset: 91, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
   - {type: punctuation, offset: 94, content: 、, id: KR6q0610_DZZ_309-bkkpn25}
   - {type: 'tls:seg', offset: 94, content: '', id: KR6q0610_DZZ_0234-s024}
+  - {type: substitution, offset: 99, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: punctuation, offset: 100, content: 。, id: KR6q0610_DZZ_309-bkkpn26}
   - {type: 'tls:seg', offset: 100, content: '', id: KR6q0610_DZZ_0234-s025}
   - {type: punctuation, offset: 104, content: 、, id: KR6q0610_DZZ_309-bkkpn27}
@@ -69,4 +72,4 @@ markers:
   - {type: punctuation, offset: 140, content: 。, id: KR6q0610_DZZ_309-bkkpn33}
   - {type: xml-element, offset: 140, content: '', id: KR6q0610_DZZ_309-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:edf4fcfda6430abfc0b14065b44ba19c96930e40c70dc6a693f63b6ea25cd56a
+hash: sha256:26603de1a1429da63416c94819e88a3dfdb5aa75ece73ded783d35a1ae2ff642

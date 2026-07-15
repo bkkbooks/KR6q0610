@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 徳山示衆云問即有過不問又乖時有僧纔出作禮師便打僧曰某甲話也未問爲甚便打師云待你開口堪作什麼
-  hash: sha256:7d2dda5b114c0fd8a1dbaaf8470d8f11006303a25889d8439d2af75c041f77f5
+  text: 德山示衆云問即有過不問又乖時有僧才出作禮師便打僧曰某甲話也未問為甚便打師云待你開口堪作什麼
+  hash: sha256:a583f620f547de6e67ed485f8cc0668d0eb87577a5e81e44b5c5b208f422501d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0145-h001}
   - {type: 'tls:div-end', offset: 45, content: '', id: KR6q0610_DZZ_0145}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:c26ff426cce8e16c83e6d823f4560a16b3cecec37dc4a3910a7a61a7e8538194
+hash: sha256:5906927b35b2c1c7cfc053c4634eea63690d4a85051917c8eadd3a3250c0858c

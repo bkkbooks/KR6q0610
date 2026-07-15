@@ -26,7 +26,8 @@ markers:
   - {type: 'tls:seg', offset: 39, content: '', id: KR6q0610_DZZ_0109-s010}
   - {type: punctuation, offset: 41, content: 、, id: KR6q0610_DZZ_144-bkkpn12}
   - {type: 'tls:seg', offset: 41, content: '', id: KR6q0610_DZZ_0109-s011}
+  - {type: substitution, offset: 43, original: 脚, replacement: 腳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20810}}
   - {type: punctuation, offset: 49, content: 。, id: KR6q0610_DZZ_144-bkkpn13}
   - {type: xml-element, offset: 49, content: '', id: KR6q0610_DZZ_144-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:38165a0b117aa76b67982d829eb71cb976803520ed39cf8c08ca017c6eea85fa
+hash: sha256:3fbccbe6625f1a3d981983b3a861d130062a92084783d627f8f0e0be8bb78c68

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 芙蓉山道楷禪師問投子山青禪師曰佛祖意句如家常茶飯離此之餘還別有爲人言句也無青和尚云汝道寰中天子敕還假禹湯堯舜也無師擬開口青和尚拈拂子驀口打云你發意來時早有二十棒分師於此契悟作禮便行青和尚云且來闍梨師竟不囘首青和尚云子到不疑之地耶師掩耳而去
-  hash: sha256:94b739d85c9f0430aca7993f56b91e8479d2a778eb23a3de90934ce09e20b053
+  text: 芙蓉山道楷禪師問投子山青禪師曰佛祖意句如家常茶飯離此之餘還別有為人言句也無青和尚云汝道寰中天子敕還假禹湯堯舜也無師擬開口青和尚拈拂子驀口打云你發意來時早有二十棒分師於此契悟作禮便行青和尚云且來闍梨師竟不回首青和尚云子到不疑之地耶師掩耳而去
+  hash: sha256:84f975a3e7c10ffdc5127f00520ae4594d9857908fc39506f05e6db0a23feae3
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0143-h001}
   - {type: 'tls:div-end', offset: 119, content: '', id: KR6q0610_DZZ_0143}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:c9c41e951ed3fc153d38491148d8fbaa2079d77cdccb4cb0d427f6f713366a83
+hash: sha256:5cc6dd9c422ea1fa19d94d8a78c2746f272f9c79447c583d927eb6015e7100eb

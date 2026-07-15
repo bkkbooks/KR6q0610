@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 洞山問僧什麼處來曰游山來師曰還到頂頭麼云到師云頂上有人否云無人師曰你不到頂頭來僧云不到爭知無人師曰闍梨何不且住云某甲住即不辭西天有人不肯在
-  hash: sha256:d994c8c55f0e4b91e7df83ec0f8b84ee9002a1e38250526d6adb26d00093caab
+  text: 洞山問僧什麼處來曰遊山來師曰還到頂頭麼云到師云頂上有人否云無人師曰你不到頂頭來僧云不到爭知無人師曰闍梨何不且住云某甲住即不辭西天有人不肯在
+  hash: sha256:7b7e282261971b6e8a97a59bf942999760027c5ad0b1f34a201d972eb02d456d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0049-h001}
   - {type: 'tls:div-end', offset: 69, content: '', id: KR6q0610_DZZ_0049}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:98c0562dcdef119d63ea103a9bc00511074f9a8b7697d66f5537cc5fe3d85848
+hash: sha256:92dcfdec29abb86c51f8698eea53b86d58cd51603e593dca4a812fd1dcb783d9

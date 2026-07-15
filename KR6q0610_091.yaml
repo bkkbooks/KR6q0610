@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 韶州雲門匡眞禪師嗣雪峰諱文偃問曹山如何是沙門行山曰喫常住苗者師曰便恁麼去時如何山云你還畜得麼師云學人畜得山云作麼生畜師曰著衣喫飯有甚麼難山云何不道披毛戴角師禮拜
-  hash: sha256:dd1c6b29ee63935daf2110d3e83c6faf9ac15db19de7bcd05bd49b8d6c82b59b
+  text: 韶州雲門匡真禪師嗣雪峰諱文偃問曹山如何是沙門行山曰喫常住苗者師曰便恁麼去時如何山云你還畜得麼師云學人畜得山云作麼生畜師曰著衣喫飯有甚麼難山云何不道披毛戴角師禮拜
+  hash: sha256:390925b21ab71ae4ab34bfa83f6e948d46b1f332a2c444014aa64d6b450bcd32
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0070-h001}
   - {type: 'tls:div-end', offset: 80, content: '', id: KR6q0610_DZZ_0070}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:4bff1e01610f32506f382a2726913f115661b99978c3a1ab1e4e826f1dc2fd11
+hash: sha256:18134675a862bd8e8b039aa9b6761d1a0d47d22d01dd93bf8bc7ddc943513da1

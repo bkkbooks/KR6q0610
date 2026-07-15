@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 益州大隋山神照大師嗣長慶大安諱法眞因僧問劫火洞然大千倶壞未審這箇還壞也無師曰壞僧曰恁麼則隨他去也師曰隨他去
-  hash: sha256:26d7aafda13271de75bf785a1e3b36a55246da1de48f39f9cb6c4fe88188ae0f
+  text: 益州大隋山神照大師嗣長慶大安諱法真因僧問劫火洞然大千俱壞未審這箇還壞也無師曰壞僧曰恁麼則隨他去也師曰隨他去
+  hash: sha256:5848b61c499e931ef1b0cdf90455ce673a04339dba809e9a24a3ddf44a2c2f35
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0024-h001}
   - {type: 'tls:div-end', offset: 53, content: '', id: KR6q0610_DZZ_0024}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:efa0be78cc6413863a1cf55db810921790847619eadf5ab2e2e8d404e46c0616
+hash: sha256:b5a085a8856114225021a72061008fac8739782a1af87c16b578c0c399110cc4

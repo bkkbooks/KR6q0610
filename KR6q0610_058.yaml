@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大潙陞堂次有僧出曰請和尚爲衆説法師云我爲你得徹困也僧作禮
-  hash: sha256:9ed91a5e9b0cf4407844c9329778c6172dca8f73a8c42e64abaad19b9c8a6cb7
+  text: 大溈升堂次有僧出曰請和尚為衆説法師云我為你得徹困也僧作禮
+  hash: sha256:9000654c884c464e254a01e9dd5d996a12136502d53a47a315474cf1eca82e74
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0044-h001}
   - {type: 'tls:div-end', offset: 28, content: '', id: KR6q0610_DZZ_0044}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:1d0a892cfaff968fd866606bbe78fa1608b85684b5442bfefbd4dc8983d93b8f
+hash: sha256:9bfbe6a52afff73dec642567a89eab7812009475524823a564b2a45d48926db1

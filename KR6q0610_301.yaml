@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 廬山棲賢寺道堅禪師嗣金陵法安有官人問某甲收金陵布陣殺人無數還有罪也無師云老僧只管看
-  hash: sha256:a99918ae89626b5e990851283b8abed55a56d5ed887dc03e3a71697ab9e7b107
+  text: 廬山棲賢寺道堅禪師嗣金陵法安有官人問某甲收金陵布陳殺人無數還有罪也無師云老僧只管看
+  hash: sha256:594c860cf448d6e33a701d30cd00c7af895226a00fbe3bcd8c5f6c61a8b794dc
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0227-h001}
   - {type: 'tls:div-end', offset: 41, content: '', id: KR6q0610_DZZ_0227}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:5028608d6fa0e4f550a6c597a2c8526a90f28266b170434c51139ceccf49f836
+hash: sha256:97b0062685153c0cb2b5eea9093f3718a39b1c148f534decee8befee50fb8a21

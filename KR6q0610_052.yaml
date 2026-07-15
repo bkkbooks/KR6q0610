@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 杭州龍册寺道怤禪師嗣雪峰因僧問新年頭還有佛法也無師曰有僧曰如何是新年頭佛法師曰元正啓祚萬物咸新僧云謝和尚答話師曰老僧今日失利又僧問明教新年頭還有佛法也無教曰無僧曰年年是好年日日是好日爲什麼却無教曰張翁喫酒李翁醉僧曰老老大大龍頭蛇尾師曰老僧今日失利
-  hash: sha256:db71999b6fb48517980e466507332ee086ec7e72e4f9f0b8ef4456fe3f4f83d2
+  text: 杭州龍册寺道怤禪師嗣雪峰因僧問新年頭還有佛法也無師曰有僧曰如何是新年頭佛法師曰元正啓祚萬物咸新僧云謝和尚答話師曰老僧今日失利又僧問明教新年頭還有佛法也無教曰無僧曰年年是好年日日是好日為什麼却無教曰張翁喫酒李翁醉僧曰老老大大龍頭蛇尾師曰老僧今日失利
+  hash: sha256:7fedac5820b5cf0347c243a6dc852cde21c36c39968e757cf93ef3bc736e35b9
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0039-h001}
   - {type: 'tls:div-end', offset: 123, content: '', id: KR6q0610_DZZ_0039}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:d12992eb3c9092d33df4d204d71146ada502ffb69ea622a00f23b178f895436f
+hash: sha256:d9ce447ad9db2cdbf69149e53cdd62f0543db8097097351f80278d5e1355a984

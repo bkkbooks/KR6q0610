@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 地藏院眞應大師嗣玄沙諱桂琛爲玄沙忌齋請報恩和尚喫藥石報恩看供養位不見有眞遂問師還有眞麼師以手揖云看報恩云元來無眞師曰太似不看相似
-  hash: sha256:5ce240bcee474fa81c3f196f29c635594f7fbf815d156f31c889f13655f69f0c
+  text: 地藏院真應大師嗣玄沙諱桂琛為玄沙忌齋請報恩和尚喫藥石報恩看供養位不見有真遂問師還有真麼師以手揖云看報恩云元來無真師曰太似不看相似
+  hash: sha256:1be12da4871b2b70129a0e8706c96f08a3a8a618e9292fa22f3918fe54a8448e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0025-h001}
   - {type: 'tls:div-end', offset: 64, content: '', id: KR6q0610_DZZ_0025}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:715acee5e65daa14d503f0e2fccd3ea40817316290a1f8bcb49036b00a2d17e8
+hash: sha256:e8f466d6e1867189cd0ebbf7d98f65e481b55843c0bb725cd49684135d33c134

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雲門因僧問十二時中如何即得不空過師曰向什麼處著此一問曰學人不會請師擧師云將筆硯來僧便取筆硯來師作一頌曰擧不顧即差互擬思量何劫悟
-  hash: sha256:228cdcdca5b9128ac180899a3ea2139ba417045e378c953b67994ed1a95397d4
+  text: 雲門因僧問十二時中如何即得不空過師曰向什麼處著此一問曰學人不會請師舉師云將筆硯來僧便取筆硯來師作一頌曰舉不顧即差互擬思量何劫悟
+  hash: sha256:94178ec7bdf367b76264a35f71731718275f895261d5200e040c98acbec20715
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0261-h001}
   - {type: 'tls:div-end', offset: 63, content: '', id: KR6q0610_DZZ_0261}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:305050d0c066a3e60102089d51fec33d05cb351ad779b1daee1478c64ba39463
+hash: sha256:7fa59d2ffcfd2943dd54c007dc948cf7d97fb260f7afcb98168bdfd25ee04016

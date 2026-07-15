@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 馬祖因僧問離四句絶百非請師直指某甲西來意大師云我今日勞倦不能爲汝説問取智藏去僧問藏藏云何不問和尚僧云和尚教來問藏云我今日頭痛不能爲汝説問取海兄去僧問海海云我到這裡却不會僧擧似大師大師云藏頭白海頭黒
-  hash: sha256:172c08dfa89a20f5a2605b94cd81017b251bfdf3fe75bba9ad8dc49d88ccea63
+  text: 馬祖因僧問離四句絶百非請師直指某甲西來意大師云我今日勞倦不能為汝説問取智藏去僧問藏藏云何不問和尚僧云和尚教來問藏云我今日頭痛不能為汝説問取海兄去僧問海海云我到這裡却不會僧舉似大師大師云藏頭白海頭黑
+  hash: sha256:248311081497aeee172242f8bebbedd98ce6781ffef2cb4389cf086cdb51f8dd
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0108-h001}
   - {type: 'tls:div-end', offset: 98, content: '', id: KR6q0610_DZZ_0108}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:c887fa77f5aeeedd8cf486f409273ea49bda922b5b15804341daf649b6b87d5f
+hash: sha256:5e7f048396e70081b0a87d0628c779af6d04a854ddb2fdb075ec0c88b153b7e7

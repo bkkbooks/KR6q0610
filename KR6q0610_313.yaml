@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 青原思禪師問六祖當何所務即得不落階級祖曰汝曾作什麼來師云聖諦亦不爲祖云落何階級師云聖諦尚不爲何階級之有祖云如是如是汝善護持
-  hash: sha256:b56c064a092f8c12ce0548833bc1aeca7081343e7f89e029555378e0285093a9
+  text: 青原思禪師問六祖當何所務即得不落階級祖曰汝曾作什麼來師云聖諦亦不為祖云落何階級師云聖諦尚不為何階級之有祖云如是如是汝善護持
+  hash: sha256:a0188dd1e64011d75383f5fec52cd426d5cc4c68939d517923a0c6b7cc22136a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0237-h001}
   - {type: 'tls:div-end', offset: 61, content: '', id: KR6q0610_DZZ_0237}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:3e1d9b63c09e0ae827b160d51f58b0661dd59eb6492d174fb163972ccd602560
+hash: sha256:05f89b0a4acb14ada309e49d6e84e1cb1858b80e008b582a81fe0c52eff042cd

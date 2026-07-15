@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雲門大師云光不透脱有兩般病一切處不明面前有物是一透得一切法空隱隱地似有箇物相似亦是光不透脱又法身亦有兩般病得到法身爲法執不忘己見猶存墮在法身邊是一直饒透得放過即不可子細檢點將來有什麼氣息亦是病
-  hash: sha256:a4320b31e173c65a63232c53bbcf403bcfe2b1ad081ad11c8c9ec1777ea63265
+  text: 雲門大師云光不透脫有兩般病一切處不明面前有物是一透得一切法空隱隱地似有箇物相似亦是光不透脫又法身亦有兩般病得到法身為法執不忘己見猶存墮在法身邊是一直饒透得放過即不可子細檢點將來有什麼氣息亦是病
+  hash: sha256:5af2094aa5d6387e32cd660ab68dffef8a2431cd0e822ee73a8d2b3e7af72153
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0107-h001}
   - {type: 'tls:div-end', offset: 96, content: '', id: KR6q0610_DZZ_0107}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:17cee23634a95182c6c247b80a4afdca0110948eec55db01e2c2b053124b94bb
+hash: sha256:084da672665079fa7778f161f6c017a4f35585dac7e31d56b80e48266fc3f69a

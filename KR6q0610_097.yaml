@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 鄂州岩頭清嚴大師嗣徳山諱全豁因僧問三界競起時如何師曰坐却著僧云未審師意如何師曰移取廬山來即向汝道
-  hash: sha256:7914358104356081369260099414f447cf0ba66bf321243113f85fc5e596db8c
+  text: 鄂州岩頭清嚴大師嗣德山諱全豁因僧問三界競起時如何師曰坐却著僧云未審師意如何師曰移取廬山來即向汝道
+  hash: sha256:d7a8937a61663b0a61e2b35de698c7a33bf238bc5c83c4495d803ef93d8aff0f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0075-h001}
   - {type: 'tls:div-end', offset: 48, content: '', id: KR6q0610_DZZ_0075}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:8852effb08b6ef65f29c9cd5a0756c9b2ebc78e0662d83b2ef7f55f29bc0e955
+hash: sha256:775627db836bd4d6bd4e091f96e5c386415aed937eb55c3f93d55553c55d47e0

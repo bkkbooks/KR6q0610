@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 南嶽大慧禪師馬大師闡化於江西師問衆云道一爲衆説法否衆曰已爲衆説法師曰總不見通箇消息來遂因遣一僧去曰待伊上堂時但問作麼生伊道底言語記將來僧去一如師旨廻謂師云馬師曰自從胡亂後三十年不曾闕鹽醤喫師然之
-  hash: sha256:dbcaa625f687d4a1ed74054b8f467a1b32788a32b1a39898be8f9d906134b71e
+  text: 南嶽大慧禪師馬大師闡化於江西師問衆云道一為衆説法否衆曰已為衆説法師曰總不見通箇消息來遂因遣一僧去曰待伊上堂時但問作麼生伊道底言語記將來僧去一如師旨回謂師云馬師曰自從胡亂後三十年不曾闕鹽醬喫師然之
+  hash: sha256:2efaefb54c3ca284d9baad25421219eb1c24e3c1f75b5d5ab39163482615d3ce
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0223-h001}
   - {type: 'tls:div-end', offset: 97, content: '', id: KR6q0610_DZZ_0223}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:e75e8cedb6cff3fbf7e008e3230f554fc3f3aaf430bda6d21fa0d027cb77b8d9
+hash: sha256:3331da194e5027140f1aa6d54ae0f603b5e22bba0274c50ee6723afdb1387586

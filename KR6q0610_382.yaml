@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雲門大師云乾坤之内宇宙之間中有一寶祕在形山拈燈篭向佛殿裏將三門來燈篭上
-  hash: sha256:4c7a592febac268cbc1ee7edf3318825596ff33a9d9cc7aae75118d500c61905
+  text: 雲門大師云乾坤之內宇宙之間中有一寶祕在形山拈燈篭向佛殿裏將三門來燈篭上
+  hash: sha256:5bb68aecc5375302aac031ab4a684b288426202b5c2cd669b9e3885115036fad
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0295-h001}
   - {type: 'tls:div-end', offset: 35, content: '', id: KR6q0610_DZZ_0295}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:eb04e115136e8f0db44dbc727b00933a58b126845bc25ef0f5c70f3e69f5a149
+hash: sha256:d1f43d8905bcfe4fb209b72d27a9be4f061cb0c1259ae29dd195b9cd95e37c8e

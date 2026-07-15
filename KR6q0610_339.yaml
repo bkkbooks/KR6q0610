@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 郢州芭蕉和尚嗣石霜因僧問不落諸縁請師直指師曰有問有答
-  hash: sha256:20ba2501e7c31b236e64b0eccdd4887d6002c804a19322c4994403be747f4543
+  text: 郢州芭蕉和尚嗣石霜因僧問不落諸緣請師直指師曰有問有答
+  hash: sha256:5301a79f5a414f1b1f849082f7318c62d88a8e4dca6693ecf1260b75b97358ae
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0259-h001}
   - {type: 'tls:div-end', offset: 26, content: '', id: KR6q0610_DZZ_0259}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a20749cfef8830f0359e85f0c1064f4ce27854a3c9bb7826dda0a5aff3810feb
+hash: sha256:ec0cb0d3afd811c765792017609d5fe45f56e2a3c150baa96aa3861751d91f34

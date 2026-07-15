@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 韓愈文公因唐憲宗皇帝迎佛舍利入大内供養夜放光明早朝宣問群臣皆賀陛下聖徳聖感唯文公不賀上宣問群臣皆賀獨卿何不賀文公因奏對微臣嘗看佛書況佛光非青黄赤白等此是龍神衞護之光上宣問如何是佛光文公無對因以罪請出
-  hash: sha256:a91af7397162de95460263022817495ac9bb56946f3120c2f1ce82e575844fa3
+  text: 韓愈文公因唐憲宗皇帝迎佛舍利入大內供養夜放光明早朝宣問群臣皆賀陛下聖德聖感唯文公不賀上宣問群臣皆賀獨卿何不賀文公因奏對微臣嘗看佛書況佛光非青黃赤白等此是龍神衛護之光上宣問如何是佛光文公無對因以罪請出
+  hash: sha256:f6baea93a425c11495a4e3060034060aa1c52af42ad7f11d49041d883b8eb3f8
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0173-h001}
   - {type: 'tls:div-end', offset: 99, content: '', id: KR6q0610_DZZ_0173}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a312f28a9ef02dcf739c8cebb818ace5db0f7407c7d48881197f1ddbb573e45f
+hash: sha256:87cf72d24c108a16cebc78b4f7d8128809f1ec0a59c1efeda4788e779a78572b

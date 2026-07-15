@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 羅漢院眞應大師問保福僧保福佛法如何示人僧云保福有時示衆云塞却汝眼教汝覰不見塞却汝耳教汝聽不聞坐却汝意根教汝分別不得師曰吾問汝我不塞汝眼汝見箇什麼不塞汝耳汝聞箇什麼不坐却汝意根汝作麼生分別僧於言下有省
-  hash: sha256:8d25613dea6b2672d294c38c92ab18b4ead5cc4c95a547d30c006cae3a22b705
+  text: 羅漢院真應大師問保福僧保福佛法如何示人僧云保福有時示衆云塞却汝眼教汝覷不見塞却汝耳教汝聽不聞坐却汝意根教汝分別不得師曰吾問汝我不塞汝眼汝見箇什麼不塞汝耳汝聞箇什麼不坐却汝意根汝作麼生分別僧於言下有省
+  hash: sha256:5fc32504d51ec0128801e5da163306ab09d1b1a46b86242fd8c80404b80c7b5e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0113-h001}
   - {type: 'tls:div-end', offset: 99, content: '', id: KR6q0610_DZZ_0113}
@@ -16,4 +16,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:bdc90d64549028cf0c0b5a63331f8ec6a87d3139de931de58c267e0f473c0f1e
+hash: sha256:c0c796fa7d6037571f546103e12f8064852e3e9fb9d2116dd9772a15fde14310

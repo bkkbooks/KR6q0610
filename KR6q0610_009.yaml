@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 襄州龐蘊居士嗣馬祖初問石頭不與萬法爲侶者是什麼人頭以手掩居士口士於此豁然有省又問馬祖祖曰待你一口吸盡西江水來即向你道士言下領解
-  hash: sha256:82458a35699d63844e9515fee6b62dfad2b6dd0d046f13175e912826a21e9870
+  text: 襄州龐蘊居士嗣馬祖初問石頭不與萬法為侶者是什麼人頭以手掩居士口士於此豁然有省又問馬祖祖曰待你一口吸盡西江水來即向你道士言下領解
+  hash: sha256:adef26c69ce0c18776e4ef4aac2bbbe867eba9c45387d21a3ef87d15ba1c35db
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0005-h001}
   - {type: 'tls:div-end', offset: 63, content: '', id: KR6q0610_DZZ_0005}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:531ccbb51ecb3d9c3802ebc235640d47fbb3f54fa6a536aae49607aff19ec390
+hash: sha256:feeaaebda3961706ca61865d454e5ef403a2a6e9acd1ebc804641372a8564d6a

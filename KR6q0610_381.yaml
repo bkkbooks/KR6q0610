@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雪峰與三聖行次見一隊猢猻師曰祗這猢猻各各背一而古鏡聖曰歴劫無名何以彰爲古鏡師曰瑕生也聖云一千五百人善知識話頭也不識師曰老僧住持事繁
-  hash: sha256:29bd851e14a18eaf1294008734846f93e679a5ef23e9947b09d280029a046dc4
+  text: 雪峰與三聖行次見一隊猢猻師曰祗這猢猻各各背一而古鏡聖曰歷劫無名何以彰為古鏡師曰瑕生也聖云一千五百人善知識話頭也不識師曰老僧住持事繁
+  hash: sha256:574cadbcdffc319e3751cf721f844f94d79cbfe0315fc0fefc545700f117648a
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0294-h001}
   - {type: 'tls:div-end', offset: 65, content: '', id: KR6q0610_DZZ_0294}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:a09f7c4b05c6b422dc2e2a830715f9041d5236ac853fcb7e48c03f805486ac92
+hash: sha256:2e88f9432cf1e57b99db37629866ec30c0c373fa30877683f0b0aed1ea82f359

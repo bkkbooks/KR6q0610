@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臺山路有一婆子毎有僧問臺山路向甚麼處去婆曰驀直去僧纔行婆曰好箇阿師又恁麼去前後僧問皆如此後有僧擧似趙州州曰待我爲你勘破這老婆州遂往問臺山路向甚處去婆曰驀直去州纔行婆云好箇阿師又恁麼去州歸擧似大衆云我爲你勘破這老婆了也
-  hash: sha256:55a4acb7941e78ddb1a857a9c0f2d13ea611ad958807123968a95ed2f27aa0b4
+  text: 臺山路有一婆子每有僧問臺山路向甚麼處去婆曰驀直去僧才行婆曰好箇阿師又恁麼去前後僧問皆如此後有僧舉似趙州州曰待我為你勘破這老婆州遂往問臺山路向甚處去婆曰驀直去州才行婆云好箇阿師又恁麼去州歸舉似大衆云我為你勘破這老婆了也
+  hash: sha256:98aa9b8cb6395369d34ec964ca8b24c1db2cbcce331d89e75185fe76c944ea9e
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0133-h001}
   - {type: 'tls:div-end', offset: 108, content: '', id: KR6q0610_DZZ_0133}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:70ef1f0f0c70e3c7d89aab7cc50377dd71455d093522bdbe2a020520a9ca818a
+hash: sha256:5d356a87843f33ef54e9d2f79d5c16db8d90b6ce5e4d0d3712369ebafd957452

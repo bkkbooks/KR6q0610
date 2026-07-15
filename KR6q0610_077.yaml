@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 潭州石霜山普會大師嗣道吾諱慶諸因僧問三千里外遠聞石霜有箇不顧師曰是僧云只如萬像歴然是顧不顧師曰我道不驚衆僧曰不驚衆是不與萬象合如何是不顧師曰徧界不曾藏
-  hash: sha256:a2c21c058b551d02d13768121040906e170d9ca694b777fa4470540d8410f8a1
+  text: 潭州石霜山普會大師嗣道吾諱慶諸因僧問三千里外遠聞石霜有箇不顧師曰是僧云只如萬像歷然是顧不顧師曰我道不驚衆僧曰不驚衆是不與萬象合如何是不顧師曰遍界不曾藏
+  hash: sha256:52d98b45e269cd5d3aeb9c46982b865e0c7761bdfbaa925d4c521d429076509d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0058-h001}
   - {type: 'tls:div-end', offset: 75, content: '', id: KR6q0610_DZZ_0058}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:2aa96440e267f660f25906dde842b6ddabb4c903bc3b659ce6d1c44841c81399
+hash: sha256:2e5bd1be2d83a196937a2ed2ae46c11fb8ce736133f94abb2d7f15b4742e7d95

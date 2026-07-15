@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 雪峰山眞覺大師一日示衆云此事如一片田地相似一任衆人耕種無有不承此恩力者時玄沙云且作麼生是一片田地師曰看沙云是即是某甲不恁麼師云你作麼生沙云只是人人底
-  hash: sha256:e86c478451c39c2526456804c33426d7cb0dbd849bb01498bde04f1799856c41
+  text: 雪峰山真覺大師一日示衆云此事如一片田地相似一任衆人耕種無有不承此恩力者時玄沙云且作麼生是一片田地師曰看沙云是即是某甲不恁麼師云你作麼生沙云只是人人底
+  hash: sha256:97f2b14d24b92066b2a1b73310a6526a536bc963fecd39909b1bc1d08598c38c
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0149-h001}
   - {type: 'tls:div-end', offset: 74, content: '', id: KR6q0610_DZZ_0149}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:bccd0493426948a868606a6ee372e29f2a8cf7ba05bc5d6d3639b5e41bca201d
+hash: sha256:47ead56e74f9872366d9b88e5cedda06cb27b945224076bf199fb6bcb74accc9

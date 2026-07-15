@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 臨濟因半夏上黄蘗山問訊見黄蘗看經乃曰我將謂是箇人元來是淹黒豆老和尚住數日乃辭去蘗曰汝破夏來不終夏了去師曰某甲暫來禮拜和尚蘗遂打趁令去師行數里疑此事却廻終夏
-  hash: sha256:f5037151d62b16073f89ff7f03e1250f44aae49ed14d17bb1ddb97c9d23aeb78
+  text: 臨濟因半夏上黃蘗山問訊見黃蘗看經乃曰我將謂是箇人元來是淹黑豆老和尚住數日乃辭去蘗曰汝破夏來不終夏了去師曰某甲暫來禮拜和尚蘗遂打趁令去師行數里疑此事却回終夏
+  hash: sha256:0b7848c571efb4179c6b4941b9ca00624ab44ccd2ed512a37ad96f239ab68c31
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0178-h001}
   - {type: 'tls:div-end', offset: 77, content: '', id: KR6q0610_DZZ_0178}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:4bc3601cda012edc96795dd060876934ddabfbd62e5b105132f1fd1697c9ae55
+hash: sha256:d07a68ee30c7931d23bf603fa5291ad88272909aacb78d1f682bb19d8ad74e14

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 潭州龍山和尚嗣馬祖因洞山與密師伯到乃問此山無路闍梨向甚處來曰和尚從何而入曰我不曾雲水曰和尚住此山多少時曰春秋不渉曰和尚先住此山先住曰不知曰爲甚不知曰我不爲人天來曰和尚得何道理便住此山曰我見兩箇泥牛鬪入海直至如今無消息
-  hash: sha256:179cf405ddd4ee67b48e26d4e059f7e5c74cc11241c32b81c2f5d12a1eb19f66
+  text: 潭州龍山和尚嗣馬祖因洞山與密師伯到乃問此山無路闍梨向甚處來曰和尚從何而入曰我不曾雲水曰和尚住此山多少時曰春秋不涉曰和尚先住此山先住曰不知曰為甚不知曰我不為人天來曰和尚得何道理便住此山曰我見兩箇泥牛鬪入海直至如今無消息
+  hash: sha256:e69347ec9f8f811d6215f57d8d0a71d746af2917d29e301042a67a44acae1412
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR6q0610_DZZ_0222-h001}
   - {type: 'tls:div-end', offset: 108, content: '', id: KR6q0610_DZZ_0222}
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR6q0610.xml
-hash: sha256:41574e468ed90512ba173ed0d05abf6a020d361dfb0aa540758424d93682abc0
+hash: sha256:56d85058b20847369583b8ae631839dc32250000d64da47937fb00b1ae2f9ca6
